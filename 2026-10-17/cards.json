@@ -1,0 +1,85 @@
+[
+{
+"file": "01_trabajo_capacitacion",
+"tag": "TRABAJO",
+"big": "$150",
+"title": "Te pagan *por capacitarte* para un empleo",
+"sub": "Programa estatal para mayores de 18 sin empleo: cursos de 20 días, <b>hasta $3,000</b>. Inscríbete <b>antes del 31 de octubre</b> en seecat.qroo.gob.mx.",
+"source": "SEECAT, Heraldo QRoo",
+"date": "16 oct 2026"
+},
+{
+"file": "02_clima_tormentas",
+"tag": "CLIMA",
+"title": "Tormentas aisladas *hasta el domingo*",
+"sub": "Hasta <b>30–31 °C</b> en Playa. Protección Civil pide estar atentos y prevé mejoría hacia el jueves 22; <b>no hay ciclones</b> a la vista.",
+"source": "Protección Civil, Heraldo QRoo, NHC",
+"date": "16 oct 2026"
+},
+{
+"file": "03_tesirve_vacunas",
+"tag": "TE SIRVE",
+"title": "Vacunas *gratis* contra influenza y covid",
+"sub": "También neumococo, aunque no tengas IMSS. Prioridad: <b>mayores de 60, embarazadas, niños de 6 a 59 meses</b> y personas con enfermedades crónicas. Hasta el 2 de abril.",
+"source": "IMSS Q. Roo vía Por Esto, Heraldo QRoo",
+"date": "9–12 oct 2026"
+},
+{
+"file": "04_noticia_puerto_aventuras",
+"tag": "NOTICIA",
+"title": "Puerto Aventuras tiene *alcalde suplente*",
+"sub": "La Fiscalía detuvo al alcalde Gilberto “N” por presunta extorsión a una comerciante; un juez decidirá. El Cabildo tomó protesta a <b>Juan Arena Carvajal</b> durante su ausencia.",
+"source": "FGE, Noticaribe, Quinta Fuerza",
+"date": "15–16 oct 2026"
+},
+{
+"file": "05_sargazo_plan",
+"tag": "SARGAZO",
+"title": "Playa, *zona prioritaria* contra el sargazo",
+"sub": "Según el Gobierno federal, el plan suma <b>$2,000 millones</b>; la primera etapa subiría la recolección de <b>1,227 a 1,870 toneladas diarias</b>. El viernes revisaron el centro de monitoreo en Cancún.",
+"source": "Noticaribe, El Norte",
+"date": "16 oct 2026"
+},
+{
+"file": "06_colonias_tapas_cfe",
+"tag": "COLONIAS",
+"big": "600",
+"title": "Reportes de *tapas rotas* sin atender",
+"sub": "Según el regidor Juan Novelo, la CFE no ha atendido <b>más de 600 solicitudes</b> del Ayuntamiento, sobre todo por tapas de registro rotas. Con lluvia los hoyos no se ven: <b>camina y maneja con cuidado</b>.",
+"source": "Cabildo vía Noticaribe, Sol QRoo",
+"date": "15 oct 2026"
+},
+{
+"file": "07_trabajo_veteranos",
+"tag": "HOTELES",
+"title": "Denuncian despidos *de veteranos* en hoteles",
+"sub": "Trabajadores con 5 y 10 años dicen que los cambian por personal nuevo con menor sueldo. Si te despiden sin causa te tocan <b>3 meses de salario y prima de antigüedad</b>. Profedet: <b>800 911 7877</b>.",
+"source": "Por Esto, Sol QRoo",
+"date": "10–13 oct 2026"
+},
+{
+"file": "08_salud_dengue",
+"tag": "SALUD",
+"big": "361",
+"title": "Casos de dengue *en Q. Roo* este año",
+"sub": "Según la Secretaría de Salud estatal, Q. Roo es <b>sexto lugar nacional</b>. Vacía y tapa recipientes con agua, usa repelente y con fiebre <b>no tomes aspirina ni ibuprofeno</b>.",
+"source": "SESA vía Noticaribe, Luces del Siglo, Sol QRoo",
+"date": "14 oct 2026"
+},
+{
+"file": "09_turismo_acapulco",
+"tag": "TURISMO",
+"title": "Nuevo vuelo directo *a Acapulco*",
+"sub": "Viva Aerobus volará desde Cancún a partir del <b>3 de noviembre</b>, martes y sábados. Playa y Acapulco firmaron una <b>alianza para promoverse juntos</b>.",
+"source": "Noticaribe, Heraldo QRoo, La Razón",
+"date": "14 oct 2026"
+},
+{
+"file": "10_trabajo_imss",
+"tag": "TRABAJO",
+"title": "¿Te registran en el IMSS *con tu sueldo real*?",
+"sub": "Revisa tus semanas cotizadas gratis en la app <b>IMSS Digital</b> o en imss.gob.mx. Si no te registran o lo hacen con menos, asesoría gratis: <b>Profedet 800 911 7877</b>.",
+"source": "IMSS, Profedet",
+"date": "17 oct 2026"
+}
+]
