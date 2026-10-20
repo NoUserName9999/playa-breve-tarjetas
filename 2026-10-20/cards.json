@@ -1,0 +1,85 @@
+[
+ {
+  "file": "01_hoteles_aguinaldo",
+  "tag": "HOTELES",
+  "title": "Te despidieron: *igual te toca aguinaldo*",
+  "sub": "La ley obliga a pagarlo <b>antes del 20 de diciembre</b>: mínimo 15 días de salario, o la <b>parte proporcional</b> si no trabajaste todo el año. Debe venir en tu finiquito. Asesoría gratis: <b>Profedet 800 911 7877</b>.",
+  "source": "Ley Federal del Trabajo, art. 87",
+  "date": "20 oct 2026"
+ },
+ {
+  "file": "02_clima_martes",
+  "tag": "CLIMA",
+  "title": "Martes con chubascos y *viento en la costa*",
+  "sub": "Por el frente frío 2, el SMN prevé chubascos, <b>rachas de 40 a 60 km/h</b> y oleaje de 1 a 2 m en la costa de Q. Roo. Máximas de <b>30 a 35 °C</b>.",
+  "source": "SMN vía Proceso",
+  "date": "19–20 oct 2026"
+ },
+ {
+  "file": "03_tesirve_beca_prepa",
+  "tag": "TE SIRVE",
+  "big": "$1,900",
+  "title": "Beca de prepa: *ya empezaron los pagos*",
+  "sub": "Beca Benito Juárez, para alumnos de <b>bachillerato público</b>. Se deposita en la tarjeta del Banco del Bienestar según tu primer apellido: <b>hoy C</b>; mié D–F; jue G; vie H–L; del 26 al 30, M a Z.",
+  "source": "Programas para el Bienestar",
+  "date": "19 oct 2026"
+ },
+ {
+  "file": "04_noticia_renuncias",
+  "tag": "NOTICIA",
+  "big": "5",
+  "title": "Renuncian funcionarios *del gobierno estatal*",
+  "sub": "Entre ellos, los <b>secretarios de Salud y de Educación</b> de Q. Roo. Dejan el cargo para buscar una candidatura rumbo a 2027. Según el Gobierno estatal, <b>hay encargados de despacho</b> y el trabajo sigue.",
+  "source": "La Silla Rota, Noticaribe, Luces del Siglo",
+  "date": "18–20 oct 2026"
+ },
+ {
+  "file": "05_sargazo_semaforo",
+  "tag": "SARGAZO",
+  "title": "Semáforo: el norte mejora, *el sur sigue en rojo*",
+  "sub": "Zona norte: <b>47 de 100 puntos</b> con sargazo muy bajo y 22 entre abundante y excesivo. Zona sur: <b>37 de 40</b> entre abundante y excesivo.",
+  "source": "Red de Monitoreo vía El Momento QRoo",
+  "date": "18 oct 2026"
+ },
+ {
+  "file": "06_luz_cable_cozumel",
+  "tag": "LUZ",
+  "title": "Cable a Cozumel: *obras en Playa 88*",
+  "sub": "La CFE pidió permiso al Ayuntamiento para una línea submarina de <b>Playacar a Cozumel</b> (3,563 mdp). Según el municipio, <b>Playa 88 no se cerrará por completo</b> y la CFE deberá reparar las calles que abra.",
+  "source": "Noticaribe, La Palabra del Caribe",
+  "date": "18–19 oct 2026"
+ },
+ {
+  "file": "07_trabajo_imss",
+  "tag": "TRABAJO",
+  "title": "Sin trabajo, *el IMSS te sigue atendiendo*",
+  "sub": "Si cotizaste al menos <b>8 semanas seguidas</b>, tú y tus beneficiarios conservan consulta, medicinas y hospital <b>8 semanas después de la baja</b>. Pide tu constancia de vigencia en serviciosdigitales.imss.gob.mx.",
+  "source": "Ley del Seguro Social, art. 109",
+  "date": "20 oct 2026"
+ },
+ {
+  "file": "08_cultura_travesia",
+  "tag": "CULTURA",
+  "title": "Travesía Sagrada Maya, *en pausa por la Corte*",
+  "sub": "Xcaret la suspendió en 2026 tras fallos de la Suprema Corte sobre el <b>uso de símbolos mayas</b>. La empresa dice que <b>acatará la sentencia</b> antes de definir su regreso.",
+  "source": "Quinta Fuerza, Reportur, Grupo Animal",
+  "date": "13–16 oct 2026"
+ },
+ {
+  "file": "09_comunidad_premio_mujeres",
+  "tag": "COMUNIDAD",
+  "title": "Premio a mujeres de Playa: *cierra el 25*",
+  "sub": "Reconocimiento <b>Elvia Carrillo Puerto</b> del Instituto Municipal de la Mujer, por trabajo social, cultural, educativo o comunitario. Inscríbete o propón a alguien <b>hasta el 25 de octubre</b>.",
+  "source": "Instituto Municipal de la Mujer vía Noticaribe",
+  "date": "18 oct 2026"
+ },
+ {
+  "file": "10_hoteles_vuelos_invierno",
+  "tag": "HOTELES",
+  "big": "21",
+  "title": "rutas nuevas *para el invierno*",
+  "sub": "Según el Gobierno estatal, llegan vuelos de <b>Canadá, EU y Europa</b> a Cancún y Tulum entre octubre y enero. ¿Buscas chamba para la temporada alta? Vacantes en <b>empleo.gob.mx</b>; nunca pagues por un trabajo.",
+  "source": "Gob. de Q. Roo vía Heraldo, Reportur",
+  "date": "18–19 oct 2026"
+ }
+]
