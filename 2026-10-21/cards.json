@@ -1,0 +1,82 @@
+[
+ {
+  "file": "01_trabajo_afore_desempleo",
+  "tag": "TRABAJO",
+  "title": "Sin trabajo: *puedes sacar parte de tu Afore*",
+  "sub": "Tras <b>46 días sin empleo</b>, si tu cuenta tiene 3 años y cotizaste 2 años al IMSS, puedes retirar <b>30 días de salario</b>. Se pide en la app AforeMóvil. Ojo: te descuenta semanas cotizadas.",
+  "source": "Ley del Seguro Social art. 191; Consar",
+  "date": "21 oct 2026"
+ },
+ {
+  "file": "02_clima_miercoles",
+  "tag": "CLIMA",
+  "title": "Miércoles con *lluvias muy fuertes*",
+  "sub": "El SMN prevé <b>lluvias muy fuertes (50 a 75 mm)</b> en zonas de Q. Roo y oleaje de <b>2 a 3 m</b> en la costa. Maneja con cuidado en calles inundadas.",
+  "source": "SMN vía El Financiero e Infobae",
+  "date": "21 oct 2026"
+ },
+ {
+  "file": "03_movilidad_uber_taxi",
+  "tag": "MOVILIDAD",
+  "title": "Uber ya opera en Playa, *pero con taxis*",
+  "sub": "Por ahora funciona como <b>Uber Taxi</b>: los viajes los hacen taxis del <b>sindicato Lázaro Cárdenas del Río</b>, no autos particulares. También arrancó en Tulum.",
+  "source": "Excélsior, Quinta Fuerza, Marcrix",
+  "date": "19–20 oct 2026"
+ },
+ {
+  "file": "04_noticia_bares_horario",
+  "tag": "NOTICIA",
+  "title": "Bares piden *ampliar su horario* en Playa",
+  "sub": "Por la temporada baja, dueños de bares y restaurantes quieren <b>abrir más horas</b>. El Ayuntamiento dice que revisará <b>caso por caso</b>, porque hoteles se quejan del ruido.",
+  "source": "Noticaribe",
+  "date": "20 oct 2026"
+ },
+ {
+  "file": "05_sargazo_alimento",
+  "tag": "SARGAZO",
+  "title": "Prueban usar el sargazo *como alimento animal*",
+  "sub": "Según el Gobierno estatal, el <b>CICY</b> (centro de investigación científica de Yucatán) estudia si el sargazo sirve para <b>alimento para animales</b>, entre otros usos. Se revisó esta semana en Cancún.",
+  "source": "Noticaribe (Gobierno de Q. Roo)",
+  "date": "19 oct 2026"
+ },
+ {
+  "file": "06_tesirve_2_noviembre",
+  "tag": "TE SIRVE",
+  "title": "2 de noviembre: *no es descanso obligatorio*",
+  "sub": "La ley no lo incluye. Si tu patrón te da el día, es por acuerdo o por tu contrato. El próximo descanso obligatorio es el <b>lunes 16 de noviembre</b>.",
+  "source": "Ley Federal del Trabajo, art. 74",
+  "date": "21 oct 2026"
+ },
+ {
+  "file": "07_empleo_bolsa_digital",
+  "tag": "EMPLEO",
+  "title": "Playa prepara *bolsa de trabajo digital*",
+  "sub": "Según el Ayuntamiento, saldría en 2027 con hoteles, sindicatos y empresas, para bajar la <b>alta rotación</b>. Mientras, hay <b>ferias de empleo cada mes</b> con 200 a 350 vacantes.",
+  "source": "Heraldo de México, Noticaribe",
+  "date": "20 oct 2026"
+ },
+ {
+  "file": "08_comunidad_talleres_faro",
+  "tag": "COMUNIDAD",
+  "title": "Talleres de *video y podcast* en Playa",
+  "sub": "La FARO (Fábrica de Artes y Oficios) abre registro: <b>diseño con celular, podcast, stop motion y cine documental</b>. Empiezan en noviembre. Confirma por WhatsApp al <b>998 939 53 64</b>.",
+  "source": "Noticaribe",
+  "date": "20 oct 2026"
+ },
+ {
+  "file": "09_deportes_atletico_dallas",
+  "tag": "DEPORTES",
+  "title": "Playa busca recibir *al club de Chicharito*",
+  "sub": "La alcaldía se reunió con directivos del <b>Atlético Dallas</b>, equipo de EE. UU. con Javier “Chicharito” Hernández como figura, para que haga aquí sus <b>pretemporadas</b>. Es una propuesta, según el Ayuntamiento.",
+  "source": "Noticaribe, Quinta Fuerza",
+  "date": "19 oct 2026"
+ },
+ {
+  "file": "10_trabajo_embarazo",
+  "tag": "TRABAJO",
+  "title": "Embarazada: *no te pueden despedir*",
+  "sub": "Tienes <b>12 semanas de descanso con salario completo</b> (6 antes y 6 después del parto) y dos pausas de 30 min al día para lactar. Pedir prueba de embarazo para contratar está prohibido. <b>Profedet 800 911 7877</b>.",
+  "source": "Ley Federal del Trabajo, arts. 133 y 170",
+  "date": "21 oct 2026"
+ }
+]
