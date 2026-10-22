@@ -1,0 +1,82 @@
+[
+ {
+  "file": "01_hoteles_prima_antiguedad",
+  "tag": "HOTELES",
+  "title": "Despido: *cobra tu prima de antigüedad*",
+  "sub": "Si te despiden, con causa o sin ella, te toca <b>12 días de salario por cada año</b> trabajado, tengas los años que tengas. Si renuncias, solo con <b>15 años o más</b>.",
+  "source": "Ley Federal del Trabajo, arts. 162 y 486",
+  "date": "22 oct 2026"
+ },
+ {
+  "file": "02_clima_jueves",
+  "tag": "CLIMA",
+  "title": "Jueves nublado *con lluvias ligeras*",
+  "sub": "Máxima de <b>29 a 31 °C</b>, chubascos y viento del noreste con rachas de hasta <b>35 km/h</b>. Ningún ciclón amenaza a Q. Roo.",
+  "source": "SMN vía TV Azteca; Meteored; Heraldo QRoo",
+  "date": "22 oct 2026"
+ },
+ {
+  "file": "03_colonias_repavimentacion",
+  "tag": "COLONIAS",
+  "title": "Calles con baches: *pide que las incluyan*",
+  "sub": "El Ayuntamiento prepara la <b>repavimentación de 2027</b> y dará prioridad a calles parchadas una y otra vez. La solicitud se hace <b>en persona en Obras Públicas</b>, con el nombre de la calle.",
+  "source": "Heraldo de México QRoo",
+  "date": "21 oct 2026"
+ },
+ {
+  "file": "04_ambiente_profepa_selva",
+  "tag": "MEDIO AMBIENTE",
+  "title": "Profepa clausura terreno *por tumbar selva*",
+  "sub": "Según Profepa, en un predio de Playa se desmontaron <b>14,632 m² de selva</b> sin permiso de cambio de uso de suelo. La clausura es <b>temporal</b> mientras sigue el procedimiento.",
+  "source": "Profepa vía Noticaribe",
+  "date": "21 oct 2026"
+ },
+ {
+  "file": "05_sargazo_toneladas",
+  "tag": "SARGAZO",
+  "title": "Playa junta *un tercio del sargazo* de Q. Roo",
+  "sub": "Según la SEMA, al 16 de octubre aquí se recogieron <b>53,635 toneladas</b> de 152,304 en todo el estado. El semáforo del 21 de octubre marca <b>9 playas con llegada mínima</b> en el municipio.",
+  "source": "SEMA vía Riviera Maya News; Heraldo QRoo",
+  "date": "21 oct 2026"
+ },
+ {
+  "file": "06_tesirve_buen_fin",
+  "tag": "TE SIRVE",
+  "title": "Buen Fin: *del 13 al 17 de noviembre*",
+  "sub": "Son cinco días de ofertas. Profeco recomienda <b>anotar desde ahora el precio</b> de lo que quieres comprar para comparar, y <b>guardar tus tickets</b>.",
+  "source": "Ruptura360, Excélsior, Uno TV",
+  "date": "22 oct 2026"
+ },
+ {
+  "file": "07_hoteles_turistas_eeuu",
+  "tag": "HOTELES",
+  "title": "Hoteleros: *bajan los turistas de EE. UU.*",
+  "sub": "Según las asociaciones hoteleras del país, los turistas de Estados Unidos que llegan en avión bajaron <b>10.4%</b> de enero a agosto. En Cancún, los pasajeros internacionales cayeron <b>6.1%</b>.",
+  "source": "ANCH, AMHM y CNET vía En Concreto",
+  "date": "19–21 oct 2026"
+ },
+ {
+  "file": "08_cultura_janal_pixan",
+  "tag": "CULTURA",
+  "title": "Janal Pixán: *del 31 de octubre al 3 de noviembre*",
+  "sub": "Inaugura el <b>sábado 31 a las 19:00</b> en la plaza 28 de Julio. Desfiles: <b>domingo 1, 18:00</b>, de Constituyentes a la plaza, y <b>lunes 2, 18:30</b>, del parque Lázaro Cárdenas al panteón de la Colosio.",
+  "source": "Ayuntamiento vía NewsDay Caribe",
+  "date": "21 oct 2026"
+ },
+ {
+  "file": "09_tesirve_puente_escolar",
+  "tag": "TE SIRVE",
+  "title": "Sin clases *el 30 de octubre y el 2 de noviembre*",
+  "sub": "Según el calendario SEP, el viernes 30 hay <b>Consejo Técnico Escolar</b> y el lunes 2 se suspenden labores. El siguiente día sin clases es el <b>lunes 16 de noviembre</b>.",
+  "source": "Calendario SEP vía Uno TV y Ruptura360",
+  "date": "22 oct 2026"
+ },
+ {
+  "file": "10_trabajo_aviso_despido",
+  "tag": "TRABAJO",
+  "title": "Si te despiden, *exige el aviso por escrito*",
+  "sub": "El patrón debe darte un <b>aviso por escrito con la causa y la fecha</b>. Si no lo hace, el despido <b>se presume injustificado</b>. Asesoría gratis: <b>Profedet 800 911 7877</b>.",
+  "source": "Ley Federal del Trabajo, art. 47",
+  "date": "22 oct 2026"
+ }
+]
