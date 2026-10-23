@@ -1,0 +1,84 @@
+[
+ {
+  "file": "01_hoteles_horas_extra",
+  "tag": "HOTELES",
+  "title": "Horas extra: *dobles o triples*",
+  "sub": "Las primeras <b>9 horas extra de la semana se pagan al doble</b>; de ahí en adelante, <b>al triple</b>. Asesoría gratis: Profedet 800 911 7877.",
+  "source": "LFT arts. 67 y 68 · Profedet",
+  "date": "23 oct 2026"
+ },
+ {
+  "file": "02_clima_viernes",
+  "tag": "CLIMA",
+  "title": "Viernes con *chubascos* y oleaje",
+  "sub": "El SMN prevé chubascos y <b>olas de hasta 2 metros</b> en la costa de Q. Roo; máximas de 30 a 35 °C. La tormenta Josephine está lejos y <b>no afecta a México</b>.",
+  "source": "SMN · NHC",
+  "date": "23 oct 2026"
+ },
+ {
+  "file": "03_tesirve_gasolina",
+  "tag": "TE SIRVE",
+  "title": "En la gasolinera: *revisa que marque cero*",
+  "sub": "Turistas denuncian un <b>cobro de más en una gasolinera de la carretera 307</b>. Mira la bomba en cero, pide tu ticket y, si te cobran de más, queja en Profeco: <b>800 468 8722</b>.",
+  "source": "Noticaribe · Profeco",
+  "date": "22 oct 2026"
+ },
+ {
+  "file": "04_noticia_puerto_aventuras",
+  "tag": "NOTICIA",
+  "title": "Prometen *bachillerato y salud 24 horas* en Puerto Aventuras",
+  "sub": "Según el Ayuntamiento, se construirá una prepa y se gestiona <b>atención médica las 24 horas</b>. El Cabildo aprobó terrenos para <b>unidades del IMSS en Puerto Aventuras y Paseos de Xcacel</b>.",
+  "source": "Ayuntamiento de Playa del Carmen",
+  "date": "22 oct 2026"
+ },
+ {
+  "file": "05_sargazo_gabinete",
+  "tag": "SARGAZO",
+  "title": "Nuevo *gabinete contra el sargazo* en Playa",
+  "sub": "Municipio, Estado, Marina y Fonatur se reunirán <b>cada semana</b> para elegir playas prioritarias y limpiar zonas para bañistas. La Marina ya usa <b>barreras móviles en el mar</b> frente a Playa.",
+  "source": "Ayuntamiento · Por Esto",
+  "date": "21 oct 2026"
+ },
+ {
+  "file": "06_noticia_paso_playa",
+  "tag": "NOTICIA",
+  "title": "Vecinos: plataforma de hotel *estorba el paso*",
+  "sub": "Denuncian que una plataforma del <b>hotel Playa del Carmen (antes Alambra)</b>, sobre zona federal, obliga a caminar por el agua cuando sube el mar. Piden a las autoridades federales revisarla.",
+  "source": "Por Esto",
+  "date": "20 oct 2026"
+ },
+ {
+  "file": "07_hoteles_prima_dominical",
+  "tag": "HOTELES",
+  "big": "25%",
+  "title": "Si trabajas domingo, *te toca prima*",
+  "sub": "Es <b>al menos 25% de tu salario del día, aparte de tu pago</b> (LFT art. 71). Si trabajas tu día de descanso, te toca <b>salario doble extra</b> (art. 73).",
+  "source": "LFT · Profedet",
+  "date": "23 oct 2026"
+ },
+ {
+  "file": "08_turismo_maya_kaan",
+  "tag": "BUENA NOTICIA",
+  "title": "National Geographic elige *Maya Ka'an* para 2027",
+  "sub": "La zona maya al sur de Tulum (Felipe Carrillo Puerto, Muyil, Punta Allen) entró a la lista de los <b>25 mejores destinos del mundo para 2027</b>, por su turismo comunitario.",
+  "source": "National Geographic · Crónica",
+  "date": "20 oct 2026"
+ },
+ {
+  "file": "09_trabajo_hojas_en_blanco",
+  "tag": "TRABAJO",
+  "title": "No firmes *hojas en blanco*",
+  "sub": "La ley dice que <b>es nula la renuncia a salarios ganados, indemnizaciones y prestaciones</b> (LFT art. 33). Si te presionan, asesoría gratis en Profedet: <b>800 911 7877</b>.",
+  "source": "LFT art. 33 · Profedet",
+  "date": "23 oct 2026"
+ },
+ {
+  "file": "10_hoteles_dias_sin_pago",
+  "tag": "HOTELES",
+  "big": "30%",
+  "title": "de los sindicalizados del turismo, *con descansos sin pago*",
+  "sub": "Es <b>el doble de lo normal</b> en temporada baja en Cancún y la Riviera Maya, según el sector laboral. Si te imponen días sin pago, Profedet: <b>800 911 7877</b>.",
+  "source": "Sol Quintana Roo",
+  "date": "22 oct 2026"
+ }
+]
