@@ -1,0 +1,86 @@
+[
+{
+"file": "01_hoteles_ley_silla",
+"tag": "HOTELES",
+"title": "Tienes derecho a *una silla con respaldo*",
+"sub": "El patrón debe darte sillas y <b>pausas para sentarte</b>; no puede tenerte de pie todo el turno. Asesoría gratis: <b>Profedet 800 911 7877</b>.",
+"source": "Ley Federal del Trabajo, arts. 132 y 133",
+"date": "25 oct 2026"
+},
+{
+"file": "02_clima_domingo",
+"tag": "CLIMA",
+"title": "Domingo caluroso, *con posibles chubascos*",
+"sub": "Máxima de <b>30 °C</b> y 60% de probabilidad de lluvia; el lunes sube a 80%. <b>Sin ciclones a la vista</b> en los próximos 7 días.",
+"source": "Meteored · Infobae · NHC",
+"date": "25 oct 2026"
+},
+{
+"file": "03_seguridad_extorsion_089",
+"tag": "SEGURIDAD",
+"big": "089",
+"title": "denuncia anónima *contra la extorsión*",
+"sub": "72 policías patrullan mercados, tianguis y plazas de <b>Puerto Aventuras</b>. Si es emergencia, llama al <b>911</b>.",
+"source": "Ayuntamiento · FGE vía Riviera Maya News",
+"date": "24 oct 2026"
+},
+{
+"file": "04_comunidad_limpieza_costera",
+"tag": "COMUNIDAD",
+"big": "2,000",
+"title": "voluntarios *limpiaron la costa*",
+"sub": "Según el Ayuntamiento, recorrieron <b>8 km de costa</b> y 21 accesos a playa, además de <b>tres cuerpos de agua</b> de la ciudad.",
+"source": "Ayuntamiento vía Noticaribe, Quinta Fuerza",
+"date": "24 oct 2026"
+},
+{
+"file": "05_sargazo_baja",
+"tag": "SARGAZO",
+"title": "Sargazo: esperan *menos en noviembre*",
+"sub": "Según el monitoreo estatal, la llegada <b>va bajando</b> y prevén una baja importante en noviembre y diciembre. En 2026 ya van <b>153 mil toneladas</b> en Q. Roo, récord.",
+"source": "SEMA y CEMAS vía Excélsior",
+"date": "20 oct 2026"
+},
+{
+"file": "06_tesirve_bandera_roja",
+"tag": "TE SIRVE",
+"title": "Bandera roja: *no entres al mar*",
+"sub": "Protección Civil reforzará la vigilancia en playas concurridas como <b>Fundadores</b>. Contrata solo <b>paseos y actividades acuáticas con permiso</b>.",
+"source": "Protección Civil vía Heraldo QRoo",
+"date": "23 oct 2026"
+},
+{
+"file": "07_hoteles_descansos_solidarios",
+"tag": "HOTELES",
+"title": "CROC ve el fin de *los descansos solidarios en diciembre*",
+"sub": "Por un leve repunte de reservaciones, según el sindicato. Si te los imponen sin tu acuerdo, asesoría gratis: <b>Profedet 800 911 7877</b>.",
+"source": "CROC vía Quinta Fuerza, Reportur",
+"date": "23 oct 2026"
+},
+{
+"file": "08_buena_noticia_conde_nast",
+"tag": "BUENA NOTICIA",
+"big": "11",
+"title": "lugar para Playa entre *las mejores playas del continente*",
+"sub": "Ranking de lectores de <b>Condé Nast Traveller 2026</b>. Tulum quedó en <b>2.º lugar</b> y Akumal en 13.º.",
+"source": "Crónica · Uno TV · Riviera Maya News",
+"date": "oct 2026"
+},
+{
+"file": "09_tesirve_comemos_todos",
+"tag": "TE SIRVE",
+"title": "¿Falta tu apoyo *de Comemos Todos*?",
+"sub": "Programa estatal de alimentos: el 4.º depósito de <b>$1,490</b> salió del 22 al 24 de octubre. Zona centro: <b>984 138 9186</b>, lunes a viernes, 9 a 17 h.",
+"source": "Sebien vía Heraldo QRoo",
+"date": "24 oct 2026"
+},
+{
+"file": "10_trabajo_salario_minimo",
+"tag": "TRABAJO",
+"big": "$315",
+"title": "diarios: *nadie puede ganar menos*",
+"sub": "Es el salario mínimo 2026 por jornada completa, unos <b>$9,582 al mes</b>. Si te pagan menos: <b>Profedet 800 911 7877</b>.",
+"source": "Conasami vía Uno TV, Bloomberg Línea",
+"date": "2026"
+}
+]
