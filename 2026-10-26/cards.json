@@ -1,0 +1,86 @@
+[
+ {
+  "file": "01_hoteles_taxi_nocturno",
+  "tag": "HOTELES",
+  "big": "$80–200",
+  "title": "Turno de noche: *taxi diario a casa*",
+  "sub": "Después de las <b>10 de la noche</b> casi no hay transporte público, según trabajadores citados por Por Esto. Pregunta en tu trabajo por <b>transporte de personal</b> y acuerda la tarifa antes de subir al taxi.",
+  "source": "Por Esto",
+  "date": "25 oct 2026"
+ },
+ {
+  "file": "02_clima_lunes",
+  "tag": "CLIMA",
+  "title": "Lunes templado, *con lluvia ligera*",
+  "sub": "Amaneció en <b>25 °C</b> y la máxima será de <b>29 °C</b>, con 80% de probabilidad de lluvia débil y brisa del noreste. <b>Sin ciclones</b> en 7 días, según el NHC.",
+  "source": "Meteored · Aeropuerto de Cozumel · NHC",
+  "date": "26 oct 2026"
+ },
+ {
+  "file": "03_tesirve_xcaret_datos",
+  "tag": "TE SIRVE",
+  "title": "Filtran datos de Xcaret: *cuidado con cobros falsos*",
+  "sub": "Se expusieron <b>correos y teléfonos</b> de unos 8,300 clientes, según la empresa; no datos bancarios. Xcaret <b>no manda links de pago por SMS</b>.",
+  "source": "Grupo Xcaret vía Noticaribe, Sol Q. Roo",
+  "date": "25 oct 2026"
+ },
+ {
+  "file": "04_noticia_fachada_quinta",
+  "tag": "NOTICIA",
+  "title": "Cae parte de una fachada *en la Quinta*",
+  "sub": "Piezas del recubrimiento de un edificio cayeron entre <b>calles 50 y 52</b>; no hubo heridos. Protección Civil acordonó el paso <b>hasta que se repare</b>.",
+  "source": "Por Esto · Sol Q. Roo · Noticaribe",
+  "date": "25 oct 2026"
+ },
+ {
+  "file": "05_comunidad_premio_mujeres_mayas",
+  "tag": "COMUNIDAD",
+  "title": "Premio para *mujeres mayas* de Playa",
+  "sub": "El premio Elvia Carrillo Puerto reconoce a mujeres indígenas en <b>10 categorías</b>, como arte, deporte y medio ambiente. Informes en la <b>Unidad de Asuntos Indígenas</b> del Ayuntamiento.",
+  "source": "Ayuntamiento vía Noticaribe",
+  "date": "25 oct 2026"
+ },
+ {
+  "file": "06_buena_noticia_artesanias",
+  "tag": "BUENA NOTICIA",
+  "big": "33",
+  "title": "Artesanos venden *en Parque Fundadores*",
+  "sub": "Dos nuevas <b>carretas artesanales</b> con hamacas, hipiles, miel y salsas de <b>33 productores</b> de cinco municipios, según el Ayuntamiento y el Gobierno estatal.",
+  "source": "Noticaribe · 5to Poder",
+  "date": "25 oct 2026"
+ },
+ {
+  "file": "07_hoteles_vacaciones",
+  "tag": "HOTELES",
+  "big": "12 días",
+  "title": "Vacaciones pagadas: *tu derecho por ley*",
+  "sub": "Por ley: <b>12 días</b> al cumplir un año, 14 al segundo y 16 al tercero, más una <b>prima del 25%</b>. Si no te las dan: Profedet 800 911 7877.",
+  "source": "Ley Federal del Trabajo, arts. 76 y 80",
+  "date": "26 oct 2026"
+ },
+ {
+  "file": "08_turismo_vuelo_italia",
+  "tag": "TURISMO",
+  "title": "Vuelo directo *de Italia a Cozumel*",
+  "sub": "Neos volará desde Milán <b>una vez por semana</b> a partir del <b>24 de diciembre</b>, con regreso vía Cancún, según la gobernadora y AeroRoutes.",
+  "source": "Noticaribe · AeroRoutes",
+  "date": "25 oct 2026"
+ },
+ {
+  "file": "09_salud_imss_puerto_aventuras",
+  "tag": "SALUD",
+  "title": "Dos unidades del IMSS *para el sur de Playa*",
+  "sub": "El Cabildo aprobó actualizar los <b>predios en Puerto Aventuras y Paseos de Xcacel</b> para avanzar trámites. En Puerto Aventuras habría <b>medicina familiar y urgencias</b>, según el Ayuntamiento.",
+  "source": "Ayuntamiento vía Quinta Fuerza",
+  "date": "22 oct 2026"
+ },
+ {
+  "file": "10_trabajo_jornada_nocturna",
+  "tag": "TRABAJO",
+  "big": "7 h",
+  "title": "Si trabajas de noche, *tu jornada es menor*",
+  "sub": "La jornada nocturna (8 pm a 6 am) es de <b>máximo 7 horas</b>; la mixta, de 7 y media. Lo que pase de ahí se paga <b>como tiempo extra</b>. Profedet: 800 911 7877.",
+  "source": "Ley Federal del Trabajo, arts. 60, 61 y 67",
+  "date": "26 oct 2026"
+ }
+]
