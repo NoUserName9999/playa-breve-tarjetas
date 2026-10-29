@@ -1,0 +1,85 @@
+[
+{
+"file": "01_hoteles_infonavit",
+"tag": "HOTELES",
+"big": "5%",
+"title": "de tu salario, *para tu Infonavit*",
+"sub": "Tu patrón debe aportarlo cada bimestre, <b>sin descontártelo</b>. Revisa en <b>Mi Cuenta Infonavit</b> (sección Mi ahorro) que sí llegue. Si falta, llama a Infonatel: <b>800 008 3900</b>.",
+"source": "Ley Federal del Trabajo, art. 136 · Infonavit",
+"date": "29 oct 2026"
+},
+{
+"file": "02_clima_jueves",
+"tag": "CLIMA",
+"title": "Jueves templado, *con lluvia*",
+"sub": "Máxima de <b>29 °C</b> y mínima de 22 °C, con <b>80% de probabilidad de lluvia</b> y viento del noroeste. Para el domingo 1 de noviembre, día de desfile, se prevé <b>60%</b>.",
+"source": "Meteored Playa del Carmen",
+"date": "29 oct 2026"
+},
+{
+"file": "03_tesirve_desfiles",
+"tag": "TE SIRVE",
+"title": "Dos desfiles, *a las 6 de la tarde*",
+"sub": "<b>1 de noviembre:</b> de Quinta Avenida y Constituyentes a la Plaza 28 de Julio. <b>2 de noviembre:</b> del Parque Lázaro Cárdenas al Panteón Municipal. Son parte del Janal Pixán (31 oct–3 nov).",
+"source": "Heraldo de México Q. Roo · El Punto sobre la i",
+"date": "22 oct 2026"
+},
+{
+"file": "04_agua_acuifero",
+"tag": "AGUA",
+"big": "146 de 168",
+"title": "casas revisadas *descargan al subsuelo*",
+"sub": "Según Centinelas del Agua, en un censo 2023–2024 en la colonia Colosio esas aguas negras van a <b>cuevas y cenotes</b> y llegan al acuífero. Piden conectar las casas al <b>drenaje que ya existe</b>.",
+"source": "Heraldo de México Q. Roo · De Luna",
+"date": "28 oct 2026"
+},
+{
+"file": "05_sargazo_semaforo",
+"tag": "SARGAZO",
+"title": "Sargazo: *poco* en casi toda Playa",
+"sub": "En el semáforo de la semana (26 oct–1 nov) casi todas las playas de Playa del Carmen aparecen en verde; <b>Playacar Fase 1, en amarillo</b> (moderado). La Semar emite pronósticos con <b>24 a 48 horas</b> de anticipación.",
+"source": "Heraldo de México Q. Roo · Quinto Poder",
+"date": "28 oct 2026"
+},
+{
+"file": "06_noticia_incentivos",
+"tag": "NOTICIA",
+"title": "Empresarios piden *premiar al que paga a tiempo*",
+"sub": "El Consejo Coordinador Empresarial de la Riviera Maya pedirá a Tesorería <b>descuentos en predial y licencias</b> en 2027 para quien está al corriente. El Maratón de Descuentos para adeudos sigue <b>hasta el 30 de noviembre</b>.",
+"source": "Heraldo de México Q. Roo · Riviera Maya News",
+"date": "28 oct 2026"
+},
+{
+"file": "07_trabajo_finiquito",
+"tag": "TRABAJO",
+"title": "Si renuncias, *igual te toca finiquito*",
+"sub": "Te deben pagar los días trabajados y la <b>parte proporcional del aguinaldo</b>, de tus <b>vacaciones</b> y de su prima de 25%. Revisa las cuentas antes de firmar. Dudas gratis: Profedet 800 911 7877.",
+"source": "Ley Federal del Trabajo, arts. 79, 80 y 87",
+"date": "29 oct 2026"
+},
+{
+"file": "08_tesirve_sat",
+"tag": "TE SIRVE",
+"title": "Trámites del SAT *en el Palacio Municipal*",
+"sub": "El Ayuntamiento organiza jornadas para sacar <b>e.firma, RFC y Constancia de Situación Fiscal</b>. Las próximas serán para comerciantes, emprendedores, jóvenes y sindicatos. Informes: <b>984 877 3050, ext. 11028</b>.",
+"source": "Ayuntamiento de Playa del Carmen · De Luna",
+"date": "28 oct 2026"
+},
+{
+"file": "09_buena_noticia_donaciones",
+"tag": "BUENA NOTICIA",
+"big": "3.er",
+"title": "lugar nacional *en donaciones*",
+"sub": "Según el informe de una plataforma de colectas en línea, el <b>0.51%</b> de la población de Q. Roo hizo donativos, <b>el doble del promedio nacional</b>. Solo lo superan CDMX y Baja California Sur.",
+"source": "Heraldo de México Q. Roo",
+"date": "28 oct 2026"
+},
+{
+"file": "10_trabajo_contrato",
+"tag": "TRABAJO",
+"title": "Tu contrato, *por escrito y con copia*",
+"sub": "Si no hay contrato colectivo, tus condiciones de trabajo deben constar <b>por escrito</b>, en dos ejemplares: <b>uno es para ti</b>. Ahí van tu sueldo, horario y puesto. Pídelo. Profedet: 800 911 7877.",
+"source": "Ley Federal del Trabajo, arts. 24 y 25",
+"date": "29 oct 2026"
+}
+]
