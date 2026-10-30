@@ -1,0 +1,83 @@
+[
+ {
+  "file": "01_hoteles_propinas",
+  "tag": "HOTELES",
+  "title": "Tus propinas *son tuyas*",
+  "sub": "Por ley, en hoteles, restaurantes y bares las propinas son <b>parte de tu salario</b> y el patrón <b>no puede quedarse con ninguna parte</b>. Si te las retienen: Profedet <b>800 911 7877</b>, gratis.",
+  "source": "Ley Federal del Trabajo, arts. 344 y 346",
+  "date": "30 oct 2026"
+ },
+ {
+  "file": "02_clima_viernes",
+  "tag": "CLIMA",
+  "title": "Viernes templado, *lluvia el domingo*",
+  "sub": "Hoy, máxima de <b>29 °C</b> y mínima de 23 °C, con viento del sureste. El domingo 1 de noviembre, día de desfile, sube a <b>60% la probabilidad de lluvia</b>, y el lunes a 80%.",
+  "source": "Meteored Playa del Carmen",
+  "date": "30 oct 2026"
+ },
+ {
+  "file": "03_tesirve_panteones",
+  "tag": "TE SIRVE",
+  "title": "Día de Muertos: *ambulancias en los panteones*",
+  "sub": "Habrá <b>paramédicos y atención médica gratis</b> en los panteones municipales de Playa del Carmen y Puerto Aventuras. Cuidado con las veladoras y <b>no bloquees los pasillos</b>.",
+  "source": "Ayuntamiento vía Noticaribe · Quinta Fuerza",
+  "date": "29 oct 2026"
+ },
+ {
+  "file": "04_agua_pedregal",
+  "tag": "AGUA",
+  "title": "El Pedregal, *casi un mes sin agua*",
+  "sub": "Vecinos dicen que compran pipas y aun así les llegan <b>recibos de $400 o más</b>. Aguakan les respondió que trabaja en la falla. Si te pasa, reporta y <b>guarda tu número de folio</b>.",
+  "source": "Por Esto",
+  "date": "29 oct 2026"
+ },
+ {
+  "file": "05_sargazo_diciembre",
+  "tag": "SARGAZO",
+  "title": "Marina espera *mucho sargazo* en diciembre",
+  "sub": "Según la Semar, habrá una <b>gran llegada a finales de diciembre</b>, en plenas vacaciones. Por ahora el arribo es <b>muy bajo</b>, según su semáforo.",
+  "source": "Semar vía El Universal · Por Esto",
+  "date": "28–29 oct 2026"
+ },
+ {
+  "file": "06_noticia_alamo",
+  "tag": "NOTICIA",
+  "title": "Trasladan un álamo *de la 5 Bis*",
+  "sub": "Protección Civil lo evaluó con <b>riesgo alto</b> por falta de anclaje; irá a un camellón frente a Mayakoba. Vecinos se oponen: dicen que <b>está sano</b> y temen que no sobreviva.",
+  "source": "Noticaribe · Heraldo de México Q. Roo",
+  "date": "29 oct 2026"
+ },
+ {
+  "file": "07_trabajo_constancia",
+  "tag": "TRABAJO",
+  "title": "Pide una constancia *de tu pago*",
+  "sub": "Si la pides, tu patrón debe darte <b>cada 15 días</b> una constancia con los días que trabajaste y el salario que te pagó. <b>Guárdala:</b> sirve como prueba si hay un conflicto.",
+  "source": "Ley Federal del Trabajo, art. 132, fr. VII",
+  "date": "30 oct 2026"
+ },
+ {
+  "file": "08_noticia_las_torres",
+  "tag": "COLONIAS",
+  "title": "Piden quitar torres de luz *para regularizar colonias*",
+  "sub": "Activistas de la zona de Las Torres piden al gobierno federal retirar las líneas de <b>alta tensión de la CFE</b>, para que <b>13 asentamientos</b> con más de 2,000 habitantes puedan regularizarse.",
+  "source": "Noticaribe",
+  "date": "28 oct 2026"
+ },
+ {
+  "file": "09_buena_noticia_dif",
+  "tag": "BUENA NOTICIA",
+  "big": "40",
+  "title": "personas, en la nueva *sala sensorial del DIF*",
+  "sub": "Es para personas con <b>discapacidad o neurodivergencia</b>, en el Centro de Rehabilitación del DIF de Playa. Empezará a funcionar <b>entre noviembre y diciembre</b>.",
+  "source": "DIF Playa del Carmen vía Noticaribe",
+  "date": "29 oct 2026"
+ },
+ {
+  "file": "10_trabajo_descanso",
+  "tag": "TRABAJO",
+  "title": "Por cada 6 días, *1 de descanso pagado*",
+  "sub": "No estás obligado a trabajar tu día de descanso. Si lo trabajas, te deben pagar <b>salario doble</b> por ese día, además de tu sueldo normal. Dudas: Profedet <b>800 911 7877</b>.",
+  "source": "Ley Federal del Trabajo, arts. 69 y 73",
+  "date": "30 oct 2026"
+ }
+]
