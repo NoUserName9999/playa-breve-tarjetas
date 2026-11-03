@@ -1,0 +1,90 @@
+[
+{
+"file": "01_hoteles_16nov",
+"tag": "HOTELES",
+"big": "16 NOV",
+"bigSize": 200,
+"title": "Si trabajas ese lunes, *te toca pago triple*",
+"sub": "Es descanso obligatorio por ley. Si te toca turno: tu <b>día normal más salario doble</b>. Revisa tu recibo. Dudas gratis: Profedet <b>800 911 7877</b>.",
+"source": "Ley Federal del Trabajo, arts. 74 y 75",
+"date": "3 nov 2026"
+},
+{
+"file": "02_clima_martes",
+"tag": "CLIMA",
+"big": "30°/23°",
+"bigSize": 200,
+"title": "Martes templado, *poca lluvia en la tarde*",
+"sub": "Brisa del este de <b>12 a 23 km/h</b>. Mañana miércoles la probabilidad de lluvia sube a <b>60%</b>.",
+"source": "Meteored, Playa del Carmen",
+"date": "3 nov 2026"
+},
+{
+"file": "03_tesirve_esterilizacion",
+"tag": "TE SIRVE",
+"title": "Esterilización gratis *para perros y gatos*",
+"sub": "<b>7, 8 y 9 de noviembre</b>, ICAT, calle 12 entre 90 y 95, colonia Ejido. Sin cita: el registro empieza a las <b>7 am</b>. WhatsApp <b>984 120 0572</b>.",
+"source": "De Luna; Coco's Animal Welfare",
+"date": "3 nov 2026"
+},
+{
+"file": "04_ambiente_nativa",
+"tag": "MEDIO AMBIENTE",
+"title": "Promueven lotes en Nativa, *permiso pendiente*",
+"sub": "ECB Desarrollos pidió a Semarnat urbanizar <b>90.9 hectáreas</b> junto a un área protegida, cerca de Xcaret. Ya aparta lotes con <b>$20,000</b>; aún no hay resolución.",
+"source": "Noticaribe; La Revista Peninsular",
+"date": "30 oct 2026"
+},
+{
+"file": "05_sargazo_2027",
+"tag": "SARGAZO",
+"big": "800 MIL",
+"bigSize": 210,
+"title": "toneladas de sargazo en 2027, *dice el estado*",
+"sub": "Sería <b>30% más</b> que en 2026, según SEMA. Depende de vientos y corrientes. Quintana Roo pedirá fondos internacionales en la COP31.",
+"source": "Luces del Siglo",
+"date": "3 nov 2026"
+},
+{
+"file": "06_cultura_janal",
+"tag": "CULTURA",
+"title": "Día de Muertos: *hoy cierra el festival*",
+"sub": "Janal Pixán termina con bailes de la Península, muestra gastronómica y cine desde las <b>5 pm</b> en el Centro Cultural municipal. Y para pasear: nueva <b>Catrina en relieve</b> en calle 2 Norte y Av. 10.",
+"source": "Ayuntamiento; Noticaribe",
+"date": "3 nov 2026"
+},
+{
+"file": "07_trabajo_paternidad",
+"tag": "TRABAJO",
+"big": "5 DÍAS",
+"bigSize": 200,
+"title": "pagados si tienes *un hijo o adoptas*",
+"sub": "Por ley, el permiso de paternidad es de <b>5 días laborables con goce de sueldo</b>. Avisa en tu hotel y lleva el acta. Si te lo niegan: Profedet <b>800 911 7877</b>.",
+"source": "Ley Federal del Trabajo, art. 132",
+"date": "3 nov 2026"
+},
+{
+"file": "08_tesirve_comemos",
+"tag": "TE SIRVE",
+"title": "Comemos Todos: *fechas de despensas* en Playa",
+"sub": "Del <b>11 al 19 de noviembre</b>, de 9 a 5, para personas ya inscritas. Ve solo a tu sede y fecha, con <b>INE y hoja de folio</b>.",
+"source": "Heraldo de México Q. Roo",
+"date": "30 oct 2026"
+},
+{
+"file": "09_movilidad_ciclista",
+"tag": "MOVILIDAD",
+"title": "Muere ciclista en la 307, *a la altura de Xcaret*",
+"sub": "Fue el domingo en la noche, al cruzar. El taxista fue detenido y la Fiscalía investiga. Si vas en bici: <b>luz, ropa clara y cruza donde te vean</b>.",
+"source": "Quinta Fuerza",
+"date": "2 nov 2026"
+},
+{
+"file": "10_trabajo_trayecto",
+"tag": "TRABAJO",
+"title": "Accidente camino al trabajo *es riesgo laboral*",
+"sub": "Si vas directo de casa al trabajo o de regreso, cuenta: incapacidad al <b>100% desde el primer día</b>. Dilo en urgencias del IMSS y pide la forma <b>ST-7</b>.",
+"source": "Ley del Seguro Social, arts. 42 y 58",
+"date": "3 nov 2026"
+}
+]
