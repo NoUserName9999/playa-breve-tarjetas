@@ -1,0 +1,90 @@
+[
+{
+"file": "01_hoteles_choque_307",
+"tag": "HOTELES",
+"title": "Choque en la 307: *casi 20 hoteleros lesionados*",
+"sub": "Según reportes iniciales, un auto invadió el carril e impactó su autobús de personal cerca de Tulum. Si te accidentas camino al trabajo o de regreso, <b>pide tu ST-7 en el IMSS</b>. Dudas gratis: Profedet <b>800 911 7877</b>.",
+"source": "Noticaribe · Por Esto · Digital News QR",
+"date": "3 nov 2026"
+},
+{
+"file": "02_clima_miercoles",
+"tag": "CLIMA",
+"big": "30°/23°",
+"bigSize": 200,
+"title": "Hoy templado, *lluvia ligera en la tarde*",
+"sub": "<b>60%</b> de probabilidad de lluvia. Viento del noreste de <b>12 a 24 km/h</b>. Sin ciclón en el Caribe por ahora, según el Centro Nacional de Huracanes.",
+"source": "Meteored, Playa del Carmen · NHC",
+"date": "4 nov 2026"
+},
+{
+"file": "03_tesirve_celulares",
+"tag": "TE SIRVE",
+"title": "Celulares en la escuela: *ya hay nuevas reglas*",
+"sub": "En primaria y secundaria, públicas y privadas, <b>no se usan en toda la jornada, tampoco en el recreo</b>. Excepciones: emergencias, salud o actividad escolar autorizada. En prepa, cada plantel pone sus reglas.",
+"source": "SEP, DOF · SEQ vía Noticaribe · Ruptura360",
+"date": "3 nov 2026"
+},
+{
+"file": "04_agua_colosio",
+"tag": "AGUA",
+"title": "Aguas negras en *Quinta y Colosio*",
+"sub": "Según vecinos, llevan meses brotando en ese cruce, <b>aun sin lluvia</b>. Piden a Aguakan y al municipio revisar el drenaje. Si pasa en tu calle, repórtalo y <b>guarda tu número de reporte</b>.",
+"source": "Por Esto",
+"date": "3 nov 2026"
+},
+{
+"file": "05_sargazo_85",
+"tag": "SARGAZO",
+"big": "85 DE 140",
+"bigSize": 170,
+"title": "puntos con *poco o nada de sargazo*",
+"sub": "Otras <b>16 zonas</b> siguen con mucho y <b>9 en rojo</b>, sobre todo en el sur. La Riviera Maya aparece entre las zonas con presencia baja, según el semáforo de sargazo.",
+"source": "Mapa Semáforo de Sargazo vía Periodistas Q. Roo",
+"date": "3 nov 2026"
+},
+{
+"file": "06_salud_dengue",
+"tag": "SALUD",
+"big": "468",
+"title": "casos de dengue *en Q. Roo este año*",
+"sub": "<b>Más del doble</b> que hace un año, según Salud federal. Voltea cubetas, tapa tambos y saca lo que junte agua: <b>fumigar no basta</b>.",
+"source": "Por Esto; Secretaría de Salud, semana 41",
+"date": "31 oct 2026"
+},
+{
+"file": "07_hoteles_aguinaldo",
+"tag": "HOTELES",
+"big": "15 DÍAS",
+"bigSize": 200,
+"title": "de aguinaldo *antes del 20 de diciembre*",
+"sub": "Es lo mínimo: salario diario × 15, o más si tu contrato lo dice. Si no cumpliste el año, te toca la <b>parte proporcional</b>. Si no te pagan: Profedet <b>800 911 7877</b>.",
+"source": "Ley Federal del Trabajo, art. 87",
+"date": "4 nov 2026"
+},
+{
+"file": "08_noticia_tesoreria",
+"tag": "NOTICIA",
+"title": "Tesorero admite: *hay cobros por revisar*",
+"sub": "Empresarios se quejaron de <b>cobros discrecionales</b> en reglamentos municipales. El tesorero de Playa dijo que deben revisarse; todavía <b>no hay cambios definidos</b>.",
+"source": "Noticaribe",
+"date": "3 nov 2026"
+},
+{
+"file": "09_salud_imss",
+"tag": "SALUD",
+"title": "Clínicas del IMSS: *un paso más*",
+"sub": "El Cabildo actualizó los datos de <b>dos terrenos</b> para unidades médicas: <b>Puerto Aventuras y Paseos de Xcacel</b>. Por ahora son proyectos, aún sin obra.",
+"source": "Ruptura360 · Riviera Maya News",
+"date": "23 oct 2026"
+},
+{
+"file": "10_trabajo_prima",
+"tag": "TRABAJO",
+"big": "25%",
+"title": "extra *sobre tus vacaciones*",
+"sub": "Es la prima vacacional. Ejemplo: ganas $400 al día y tomas 12 días: <b>$4,800 de vacaciones + $1,200 de prima</b>. Revisa tu recibo. Dudas: Profedet <b>800 911 7877</b>.",
+"source": "Ley Federal del Trabajo, art. 80",
+"date": "4 nov 2026"
+}
+]
