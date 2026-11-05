@@ -1,0 +1,84 @@
+[
+{
+"file": "01_hoteles_descansos",
+"tag": "HOTELES",
+"title": "Descanso sin paga: *si te lo imponen, viola la ley*",
+"sub": "Así lo dice la <b>Secretaría del Trabajo estatal</b>; solo vale con acuerdo. La <b>CROC</b> lo defiende como acuerdo entre privados. Asesoría gratis: <b>Profedet 800 911 7877</b>.",
+"source": "Noticaribe · Grupo Cantón",
+"date": "29 oct 2026"
+},
+{
+"file": "02_clima_jueves",
+"tag": "CLIMA",
+"title": "Jueves templado, *lluvia ligera en la tarde*",
+"sub": "Máxima <b>30 °C</b>, mínima <b>23 °C</b>. <b>60%</b> de probabilidad de lluvia, sobre todo de 1 a 5 pm. Viento del noreste de <b>16 a 29 km/h</b>.",
+"source": "Meteored",
+"date": "5 nov 2026"
+},
+{
+"file": "03_tesirve_descuentos",
+"tag": "TE SIRVE",
+"big": "100%",
+"title": "de recargos del predial, *hasta el 30 de noviembre*",
+"sub": "Adeudos de <b>2021 a 2025</b>. También <b>100%</b> en recargos de basura y <b>50%</b> en multas de tránsito, con excepciones. Confirma en Tesorería municipal.",
+"source": "Reportero Ambulante · Heraldo",
+"date": "Vigente al 30 nov"
+},
+{
+"file": "04_seguridad_turista",
+"tag": "SEGURIDAD",
+"title": "Policías, acusados *de cobrar $9,500 a turista*",
+"sub": "Según su relato, tras <b>6 horas detenido</b> le pidieron tarjeta y NIP. El <b>Ayuntamiento dice que investiga</b> y que deslindará responsabilidades.",
+"source": "Noticaribe · Heraldo de México",
+"date": "3-4 nov 2026"
+},
+{
+"file": "05_sargazo_barreras",
+"tag": "SARGAZO",
+"title": "Sargazo: anuncian *nuevas barreras y buques*",
+"sub": "Según la <b>gobernadora</b>, también preparan una <b>alerta temprana</b> de arribos. Playa está entre los municipios de los nuevos grupos de trabajo.",
+"source": "Noticaribe · El Quintanarroense",
+"date": "27 oct 2026"
+},
+{
+"file": "06_turismo_quinta",
+"tag": "TURISMO",
+"title": "Más extranjeros en la Quinta, *pero gastan poco*",
+"sub": "Comerciantes dicen a <b>Por Esto</b> que aún no suben las ventas: muchos turistas ya pagaron todo incluido. Esperan mejorar en la <b>segunda mitad de noviembre</b>.",
+"source": "Por Esto",
+"date": "4 nov 2026"
+},
+{
+"file": "07_trabajo_salario",
+"tag": "TRABAJO",
+"title": "Salario mínimo 2027: *se define en diciembre*",
+"sub": "Hoy son <b>$315.04 al día</b>. La <b>CTM</b> propone <b>12%</b>; Coparmex, unos <b>6%</b>. Regirá desde el <b>1 de enero</b>. Si ganas menos: <b>Profedet 800 911 7877</b>.",
+"source": "Infobae · El Imparcial",
+"date": "4 nov 2026"
+},
+{
+"file": "08_agua_humedales",
+"tag": "AGUA",
+"big": "4",
+"title": "humedales artificiales, *propuesta para Playa*",
+"sub": "Filtrarían aguas residuales para regar cultivos, entre <b>Santa Cecilia y Uxuxubí</b>. Costo estimado: <b>$80 a $120 millones</b>, según quien lo propone.",
+"source": "Noticaribe",
+"date": "4 nov 2026"
+},
+{
+"file": "09_cultura_dacfest",
+"tag": "CULTURA",
+"title": "Danza en el Poliforum: *este 7 de noviembre*",
+"sub": "<b>DAC FEST</b>, primer concurso y festival de danza en Playa. Sábado 7, de <b>10 am a 2 pm</b>, con talleres de contemporáneo y urbano. Informes: <b>984 113 1551</b>.",
+"source": "Noticaribe",
+"date": "7 nov 2026"
+},
+{
+"file": "10_trabajo_guarderia",
+"tag": "TRABAJO",
+"title": "Guardería del IMSS: *es tu derecho*",
+"sub": "Hijos de <b>43 días a 4 años</b>. Madres aseguradas; papás viudos, divorciados o con la custodia. Según cupo. Trámite: <b>stigi.imss.gob.mx</b> o en la guardería.",
+"source": "Ley del Seguro Social · Uno TV",
+"date": "5 nov 2026"
+}
+]
