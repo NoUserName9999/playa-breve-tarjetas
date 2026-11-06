@@ -1,0 +1,85 @@
+[
+{
+"file": "01_hoteles_united_tulum",
+"tag": "HOTELES",
+"title": "United deja Tulum: *menos vuelos en enero*",
+"sub": "Sus dos últimas rutas, Newark y Houston, terminan el <b>2 y 4 de enero</b>. Si te recortan turnos, asesoría gratis en Profedet: <b>800&nbsp;911&nbsp;7877</b>.",
+"source": "El Financiero vía Noticaribe · BoltFlight",
+"date": "6 nov 2026"
+},
+{
+"file": "02_clima_viernes",
+"tag": "CLIMA",
+"big": "30°/24°",
+"title": "Viernes con *lluvia ligera*",
+"sub": "<b>70%</b> de probabilidad de lluvia, poca cantidad. Viento del noreste de <b>15 a 29 km/h</b>. Sin ciclones en el Caribe.",
+"source": "Meteored Playa del Carmen · NHC",
+"date": "6 nov 2026"
+},
+{
+"file": "03_tesirve_lentes",
+"tag": "TE SIRVE",
+"title": "Lentes gratis *en escuelas públicas*",
+"sub": "Según el Ayuntamiento, brigadas revisarán la vista a alumnos de <b>educación básica</b> en <b>291 planteles</b> y darán lentes a quien los necesite. Programa: Viendo al Futuro.",
+"source": "Ayuntamiento vía Quinta Fuerza",
+"date": "5 nov 2026"
+},
+{
+"file": "04_ambiente_alamo",
+"tag": "MEDIO AMBIENTE",
+"title": "Álamo de la 5 Bis: *vecinos frenan el traslado*",
+"sub": "Entre <b>38 y 40</b>. Protección Civil dice que puede caer; un dictamen de hace dos años lo vio sano. El municipio <b>pausó</b> la obra para revisarla: no está cancelada.",
+"source": "Noticaribe · Quinta Fuerza",
+"date": "4–5 nov 2026"
+},
+{
+"file": "05_seguridad_incendios",
+"tag": "BOMBEROS",
+"big": "25",
+"title": "incendios en octubre: *revisa tu casa*",
+"sub": "En viviendas y vehículos, según Protección Civil, <b>sin lesionados</b>. Revisa instalación eléctrica y de gas, no sobrecargues contactos y no dejes velas ni estufa solas.",
+"source": "Protección Civil vía Noticaribe",
+"date": "4 nov 2026"
+},
+{
+"file": "06_noticia_kantenah",
+"tag": "NOTICIA",
+"title": "Baterías en Kantenah: *Semarnat ya dijo no*",
+"sub": "Negó el permiso por <b>quitar vegetación antes de tenerlo</b>, según Quinta Fuerza. Atlantica y Quartux quieren guardar electricidad al sur de Playa; su estudio ve impacto no significativo.",
+"source": "Quinta Fuerza",
+"date": "5 nov 2026"
+},
+{
+"file": "07_trabajo_matrimonio",
+"tag": "TRABAJO",
+"big": "$3,519",
+"title": "Si te casas por el civil, *puedes pedirlos*",
+"sub": "Salen de <b>tu propia Afore</b>, una sola vez. Necesitas <b>150 semanas</b> cotizadas y acta de menos de 90 días. Se tramita en tu Afore.",
+"source": "Ley del Seguro Social, art. 165 · Uno TV",
+"date": "6 nov 2026"
+},
+{
+"file": "08_turismo_lanchas",
+"tag": "TURISMO",
+"title": "Paseos en lancha: *empiezan a repuntar*",
+"sub": "La Cooperativa Mar Caribe ya hace <b>al menos 2 salidas al día</b>, tras meses casi sin trabajo. Los prestadores esperan llegar hasta <b>70%</b> en diciembre.",
+"source": "Por Esto",
+"date": "5 nov 2026"
+},
+{
+"file": "09_tesirve_tiburon",
+"tag": "TE SIRVE",
+"title": "Tiburón cerca de Playa 72: *sin heridos*",
+"sub": "Lo vieron el jueves tras la zona de bañistas, según reportes en redes. Si ves uno: <b>sal del agua con calma</b>, sin acercarte ni perseguirlo.",
+"source": "Quinta Fuerza",
+"date": "5 nov 2026"
+},
+{
+"file": "10_trabajo_uniforme",
+"tag": "TRABAJO",
+"title": "Uniforme obligatorio: *no te lo pueden cobrar*",
+"sub": "La ley obliga al patrón a dar <b>lo necesario para trabajar</b>, y especialistas incluyen el uniforme obligatorio. Dudas gratis en Profedet: <b>800&nbsp;911&nbsp;7877</b>.",
+"source": "LFT art. 132, fr. III · IDC Online",
+"date": "6 nov 2026"
+}
+]
