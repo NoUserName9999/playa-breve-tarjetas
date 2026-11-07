@@ -1,0 +1,87 @@
+[
+{
+"file": "01_trabajo_sueldo_reducido",
+"tag": "TRABAJO",
+"title": "¿Te bajaron el sueldo? *La ley te protege*",
+"sub": "Que el patrón reduzca tu salario es causa para dejar el trabajo <b>sin responsabilidad para ti y con indemnización</b> (LFT arts. 51 y 52). Tienes <b>30 días</b>; antes de renunciar, asesoría gratis: <b>Profedet 800&nbsp;911&nbsp;7877</b>.",
+"source": "Ley Federal del Trabajo, arts. 51-IV y 52 · Profedet",
+"date": "7 nov 2026"
+},
+{
+"file": "02_clima_sabado",
+"tag": "CLIMA",
+"big": "30°/23°",
+"title": "Hoy, *lluvia ligera* y brisa",
+"sub": "<b>50%</b> de probabilidad de lluvia, poca cantidad, con chubascos posibles en la mañana y la tarde. Viento del noreste de <b>17 a 32 km/h</b>. Sin ciclones en el Caribe.",
+"source": "Meteored Playa del Carmen · NHC · SMN",
+"date": "7 nov 2026"
+},
+{
+"file": "03_tesirve_canje_armas",
+"tag": "TE SIRVE",
+"title": "Canje de armas: *del 9 al 14 de noviembre*",
+"sub": "En el nuevo Palacio Municipal (Av. CTM entre 115 y 125 Norte), de <b>10:00 a 15:00</b>. Es voluntario y anónimo; según el Ayuntamiento, pagan <b>hasta $35,650</b> en efectivo según el arma.",
+"source": "Ayuntamiento de Playa del Carmen",
+"date": "6 nov 2026"
+},
+{
+"file": "04_noticia_xpuha_sedetus",
+"tag": "NOTICIA",
+"title": "Xpu-Ha: dos desarrollos *sin permisos*",
+"sub": "Según Sedetus (desarrollo urbano del estado), <b>Bambú</b> y <b>Aldea Playa Azul</b> se venden sin autorizaciones. Pide no comprar, firmar ni rentar ahí. Revisa cualquier lote en <b>desarrollo.sedetus.gob.mx</b>.",
+"source": "Sedetus vía Ruptura360",
+"date": "6 nov 2026"
+},
+{
+"file": "05_sargazo_semaforo",
+"tag": "SARGAZO",
+"big": "102 de 140",
+"title": "puntos, en nivel *bajo o sin sargazo*",
+"sub": "Según el semáforo de SEMA del 6 de noviembre, <b>Playa del Carmen está en nivel bajo</b>; el 4 de noviembre eran 85 puntos. USF prevé que el sargazo <b>siga bajando</b> hasta fin de noviembre o diciembre.",
+"source": "SEMA vía Noticaribe y Ruptura360 · USF",
+"date": "5–6 nov 2026"
+},
+{
+"file": "06_agua_subsuelo",
+"tag": "AGUA",
+"title": "Proponen pagar estudios *del agua del subsuelo*",
+"sub": "El fideicomiso del <b>derecho de saneamiento</b>, que se cobra a los huéspedes, usaría parte de lo de 2027 para estudiar la contaminación del acuífero, de donde sale el agua de Playa. <b>Se vota en diciembre</b>.",
+"source": "Noticaribe",
+"date": "6 nov 2026"
+},
+{
+"file": "07_trabajo_imss_noche",
+"tag": "TRABAJO",
+"big": "15 NOV",
+"title": "IMSS: especialistas *de noche y en fin de semana*",
+"sub": "Según el IMSS, la consulta de especialidad en horario extendido <b>arranca el 15 de noviembre</b>. Aún no dice en qué hospitales: pregunta en tu clínica (UMF) si tu especialidad entra.",
+"source": "IMSS · Publimetro · Récord",
+"date": "3 nov 2026"
+},
+{
+"file": "08_colonias_parques",
+"tag": "COLONIAS",
+"big": "8",
+"title": "parques que *se renuevan* en tres colonias",
+"sub": "Según el Ayuntamiento: <b>Villas del Sol, Misión de las Flores y Las Palmas</b>, con andadores, luz, juegos y canchas. Inversión de <b>$13.3 millones</b> (fondo federal Fortamun).",
+"source": "Ayuntamiento de Playa del Carmen",
+"date": "6 nov 2026"
+},
+{
+"file": "09_ambiente_tiburon_toro",
+"tag": "MEDIO AMBIENTE",
+"title": "Ya llegaron *los tiburones toro*",
+"sub": "Cada invierno visitan los sitios de buceo frente a Playa. Según el buzo José Urbina hay <b>al menos 6</b>, casi todas hembras; las inmersiones siguen un protocolo de seguridad. La temporada puede durar <b>hasta enero o marzo</b>.",
+"source": "Sol Quintana Roo",
+"date": "4 nov 2026"
+},
+{
+"file": "10_trabajo_aguinaldo_ahorro",
+"tag": "TRABAJO",
+"big": "30%",
+"title": "del aguinaldo, *para deudas y ahorro*",
+"sub": "Es la recomendación de la Condusef antes del Buen Fin (13 al 17 nov): haz presupuesto y <b>revisa que el prestamista esté registrado</b> antes de firmar. Cursos gratis en <b>eduweb.condusef.gob.mx</b>.",
+"source": "Condusef vía Heraldo de México Q. Roo",
+"date": "3 nov 2026"
+}
+]
