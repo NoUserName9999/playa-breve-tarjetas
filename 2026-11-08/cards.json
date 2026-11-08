@@ -1,0 +1,84 @@
+[
+{
+"file": "01_trabajo_horas_extra",
+"tag": "TRABAJO",
+"title": "Horas extra se pagan *dobles o triples*",
+"sub": "Las primeras <b>9 horas extra de la semana se pagan al doble</b>; las que pasen de 9, <b>al triple</b>. Máximo 3 horas al día y 3 veces por semana. Asesoría gratis: <b>Profedet 800&nbsp;911&nbsp;7877</b>.",
+"source": "Ley Federal del Trabajo, arts. 66, 67 y 68",
+"date": "8 nov 2026"
+},
+{
+"file": "02_clima_domingo",
+"tag": "CLIMA",
+"big": "30°/24°",
+"title": "Domingo con *chubascos* y brisa",
+"sub": "<b>60%</b> de probabilidad de lluvia, poca cantidad. Viento del noreste de <b>15 a 29 km/h</b>. El lunes sigue igual: 29°, lluvia 70%.",
+"source": "Meteored Playa del Carmen · SMN",
+"date": "8 nov 2026"
+},
+{
+"file": "03_tesirve_licencias_paventuras",
+"tag": "TE SIRVE",
+"title": "Abren oficina para *licencias de negocio* en Puerto Aventuras",
+"sub": "Para abrir un negocio o sacar tu <b>licencia de funcionamiento</b>. Según el Ayuntamiento, se entrega en <b>máximo 3 días</b> (giros de bajo riesgo). Informes: 984&nbsp;877&nbsp;3050 ext.&nbsp;11028.",
+"source": "Ayuntamiento de Playa del Carmen · Noticaribe",
+"date": "5 nov 2026"
+},
+{
+"file": "04_agua_ctm_kantenah",
+"tag": "AGUA",
+"title": "Aguas negras en *CTM y Kantenah*",
+"sub": "Vecinos reportan un drenaje colapsado y la zona <b>inundada de aguas negras</b>. Dicen que Aguakan no ha respondido a sus reportes.",
+"source": "Sol Quintana Roo",
+"date": "6 nov 2026"
+},
+{
+"file": "05_sargazo_marina",
+"tag": "SARGAZO",
+"big": "72,815",
+"title": "toneladas de sargazo *retiradas este año*",
+"sub": "Según la Marina, es récord en Q.&nbsp;Roo. El semáforo municipal del 4 de noviembre puso toda la costa de Playa en <b>verde: arribo bajo</b>.",
+"source": "Semar vía Por Esto y ABC Noticias · Heraldo Q. Roo",
+"date": "7 nov 2026"
+},
+{
+"file": "06_salud_centros",
+"tag": "SALUD",
+"title": "Consulta en tu *centro de salud municipal*",
+"sub": "Hay cuatro: <b>Colosio, Petén, Villas del Sol y Puerto Aventuras</b>. Según el Ayuntamiento, dieron 29,677 atenciones de julio a septiembre.",
+"source": "Ayuntamiento de Playa del Carmen vía Noticaribe",
+"date": "6 nov 2026"
+},
+{
+"file": "07_trabajo_infonavit",
+"tag": "TRABAJO",
+"title": "Revisa si tu patrón *paga tu Infonavit*",
+"sub": "Debe depositar el <b>5% de tu salario</b> cada dos meses. Entra a micuenta.infonavit.org.mx, en «Mi ahorro». Si faltan pagos: <b>Infonatel 800&nbsp;008&nbsp;3900</b>.",
+"source": "Infonavit vía El Heraldo de Puebla y El Valle",
+"date": "2 nov 2026"
+},
+{
+"file": "08_cultura_festival_cine",
+"tag": "CULTURA",
+"title": "Cine queer en Playa: *hasta el 11 de noviembre*",
+"sub": "El Festival Internacional Queer de Playa del Carmen tiene funciones en <b>Cinépolis Plaza Las Américas</b>.",
+"source": "De Luna",
+"date": "6 nov 2026"
+},
+{
+"file": "09_movilidad_mobi",
+"tag": "MOVILIDAD",
+"title": "MOBI, el nuevo *transporte del estado*, llegaría a Playa en 2027",
+"sub": "Según Imoveqroo, las rutas se anunciarían <b>a inicios de enero</b>; el Cabildo ya aprobó el convenio. MOBI <b>no acepta efectivo</b>: tarjeta, app o tarjeta bancaria.",
+"source": "El Congresista · Riviera Maya News",
+"date": "29 oct 2026"
+},
+{
+"file": "10_trabajo_ley_silla",
+"tag": "TRABAJO",
+"title": "Ley Silla: multas de *hasta $586 mil*",
+"sub": "Tienes derecho a una <b>silla con respaldo</b> para descansar en el trabajo. Según la STyPS de Q.&nbsp;Roo, el 95% de empresas ya cumple; restaurantes, los más atrasados. Profedet: <b>800&nbsp;911&nbsp;7877</b>.",
+"source": "STyPS Quintana Roo vía Luces del Siglo",
+"date": "3 nov 2026"
+}
+]
