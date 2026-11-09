@@ -1,0 +1,85 @@
+[
+{
+"file": "01_hoteles_iberostar",
+"tag": "HOTELES",
+"title": "Dos hoteles de Playacar *reabren el 1 de diciembre*",
+"sub": "Iberostar Waves Tucán y Quetzal, <b>700 habitaciones</b> en total. Si estabas de permiso o en otro hotel, <b>pide por escrito tu fecha de regreso</b> y que se respete tu antigüedad.",
+"source": "Iberostar vía Sal! Revista · El Sureste",
+"date": "7 nov 2026"
+},
+{
+"file": "02_clima_lunes",
+"tag": "CLIMA",
+"big": "30°/24°",
+"title": "Lunes templado, *jueves con lluvias fuertes*",
+"sub": "Hoy <b>40%</b> de lluvia ligera y viento del este de <b>17 a 31 km/h</b>. El SMN prevé <b>lluvias fuertes a muy fuertes el jueves 12</b> en el norte de Q.&nbsp;Roo.",
+"source": "Meteored Playa del Carmen · SMN",
+"date": "9 nov 2026"
+},
+{
+"file": "03_tesirve_pension_semana",
+"tag": "TE SIRVE",
+"title": "Pensión Bienestar: *las letras de esta semana*",
+"sub": "Según la primera letra de tu apellido: <b>lunes 9: D, E y F · martes 10 y miércoles 11: G · jueves 12: H a K · viernes 13: L</b>. El lunes 16 no hay pagos.",
+"source": "Secretaría de Bienestar vía Crónica · Expansión",
+"date": "30 oct 2026"
+},
+{
+"file": "04_agua_pedregal",
+"tag": "AGUA",
+"title": "El Pedregal, *semanas sin agua*",
+"sub": "Vecinos dicen que llevan <b>hasta un mes sin agua</b> y pagan pipas. En Misión del Carmen, cuentan, el agua llega <b>solo como un hilo por la noche</b>.",
+"source": "Por Esto",
+"date": "3 nov 2026"
+},
+{
+"file": "05_deporte_seleccion",
+"tag": "DEPORTE",
+"title": "El Tri *entrena en la Riviera Maya*",
+"sub": "La Selección Mexicana se concentra en Mayakoba <b>del 8 al 12 de noviembre</b>. Después juega ante <b>Jamaica</b> en la Liga de Naciones: 14 nov en Kingston y 17 nov en Monterrey.",
+"source": "Por Esto · Quadratín Q. Roo",
+"date": "8 nov 2026"
+},
+{
+"file": "06_noticia_pozos",
+"tag": "NOTICIA",
+"big": "50",
+"title": "pozos nuevos *contra inundaciones*",
+"sub": "Según el Ayuntamiento, se construyen en Playa y Puerto Aventuras con <b>$11.4 millones</b>. Uno está en <b>Av. Las Cigüeñas, Villas del Sol</b>.",
+"source": "Ayuntamiento de Playa del Carmen · Noticaribe",
+"date": "6 nov 2026"
+},
+{
+"file": "07_hoteles_tulum_vuelos",
+"tag": "HOTELES",
+"title": "Delta y American *recortan vuelos a Tulum*",
+"sub": "American deja Miami–Tulum el <b>5 de enero</b> y Volaris se va el 7; Delta suspende Atlanta en mayo. Si te bajan días o sueldo sin tu acuerdo: <b>Profedet 800&nbsp;911&nbsp;7877</b>.",
+"source": "Por Esto · Reportur",
+"date": "7 nov 2026"
+},
+{
+"file": "08_tesirve_buenfin_profeco",
+"tag": "TE SIRVE",
+"title": "Buen Fin: *revisa la tienda antes de comprar*",
+"sub": "En el <b>Buró Comercial de Profeco</b> ves cuántas quejas tiene un comercio. Si no respetan una oferta, llama al <b>800&nbsp;468&nbsp;8722</b>. Va del 13 al 17 de noviembre.",
+"source": "Profeco vía Crónica · Publimetro",
+"date": "5 nov 2026"
+},
+{
+"file": "09_movilidad_ferry",
+"tag": "MOVILIDAD",
+"big": "43,217",
+"title": "pasajeros en el *ferry a Cozumel*",
+"sub": "Del 30 de octubre al 2 de noviembre, <b>unos 11 mil más</b> que la semana anterior, según APIQROO. Para diciembre espera hasta <b>10 mil por día</b> en cada sentido.",
+"source": "APIQROO vía Heraldo de México Q. Roo",
+"date": "5 nov 2026"
+},
+{
+"file": "10_trabajo_temporada",
+"tag": "TRABAJO",
+"title": "¿Contrato de temporada? *Tienes derechos*",
+"sub": "Si cada temporada alta trabajas en el mismo lugar, tienes los <b>mismos derechos que el personal de planta</b>, en proporción al tiempo trabajado. Asesoría gratis: <b>Profedet 800&nbsp;911&nbsp;7877</b>.",
+"source": "Ley Federal del Trabajo, art. 39-F",
+"date": "9 nov 2026"
+}
+]
