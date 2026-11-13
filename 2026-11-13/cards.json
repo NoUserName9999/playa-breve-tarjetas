@@ -1,0 +1,84 @@
+[
+ {
+  "file": "01_hoteles_wyndham",
+  "tag": "HOTELES",
+  "title": "Exempleados del Wyndham Alltra *denuncian despidos*",
+  "sub": "Dicen que los despidieron tras buscar <b>cambiar de sindicato</b> y que les borraron años de antigüedad; el hotel no ha respondido. Asesoría gratis: Profedet <b>800&nbsp;911&nbsp;7877</b>.",
+  "source": "Heraldo de México Q. Roo",
+  "date": "12 nov 2026"
+ },
+ {
+  "file": "02_clima_viernes",
+  "tag": "CLIMA",
+  "title": "Viernes de *chubascos y viento del norte*",
+  "sub": "Máxima <b>29 °C</b>, mínima <b>22 °C</b> y <b>90%</b> de probabilidad de lluvia. El SMN prevé lluvias fuertes de <b>25 a 50 mm</b> en el norte de Q.&nbsp;Roo hoy y mañana.",
+  "source": "Meteored · SMN",
+  "date": "13 nov 2026"
+ },
+ {
+  "file": "03_tesirve_luz_invierno",
+  "tag": "TE SIRVE",
+  "title": "Recibo de luz: *termina el subsidio*",
+  "sub": "Desde el <b>1 de noviembre</b> la CFE cobra con tarifa de invierno. Si usas el aire como en verano, tu recibo puede subir y pasar a tarifa <b>DAC</b>, que no tiene subsidio.",
+  "source": "CFE vía Quadratín y Diario de Yucatán",
+  "date": "11 nov 2026"
+ },
+ {
+  "file": "04_luz_cable_cozumel",
+  "tag": "LUZ",
+  "title": "Nueva línea de luz *de Playa a Cozumel*",
+  "sub": "La CFE invierte <b>3,563 millones de pesos</b> y prevé terminar en <b>febrero de 2028</b>. Según el Ayuntamiento, irá por el derecho de vía junto al <b>bulevar</b>, hasta la Colosio y Playa 88.",
+  "source": "Noticaribe · Grupo Animal",
+  "date": "12 nov 2026"
+ },
+ {
+  "file": "05_sargazo_semaforo",
+  "tag": "SARGAZO",
+  "title": "Sargazo en *nivel bajo* en Playa",
+  "sub": "El semáforo de la SEMA del <b>11 de noviembre</b> marca verde en <b>Punta Esmeralda, Colosio, Mamitas, El Recodo, Playa Caribe y Playacar</b>. El oleaje del fin de semana puede cambiarlo.",
+  "source": "SEMA vía Ruptura360",
+  "date": "11 nov 2026"
+ },
+ {
+  "file": "06_colonias_bajo_puentes",
+  "tag": "COLONIAS",
+  "title": "Proponen parques *bajo los puentes del bulevar*",
+  "sub": "La regidora Dana Ramírez lo planteó al Cabildo y el Colegio de Arquitectos la respalda. Hoy esos espacios son <b>estacionamiento</b> y a veces <b>acumulan basura</b>. Por ahora es solo una propuesta.",
+  "source": "Noticaribe",
+  "date": "12 nov 2026"
+ },
+ {
+  "file": "07_trabajo_sindicato",
+  "tag": "TRABAJO",
+  "title": "Tú eliges *tu sindicato*",
+  "sub": "Nadie puede obligarte a <b>entrar o salir</b> de un sindicato, y el patrón <b>no puede presionarte</b> para cambiar o quedarte. Asesoría gratis: Profedet <b>800&nbsp;911&nbsp;7877</b>.",
+  "source": "Ley Federal del Trabajo, arts. 133 y 358",
+  "date": "13 nov 2026"
+ },
+ {
+  "file": "08_cultura_artesanias",
+  "tag": "CULTURA",
+  "big": "118",
+  "title": "artesanos *venden hasta el domingo*",
+  "sub": "Foro Peninsular de las Artesanías, en el <b>Parque Los Fundadores</b> y el Hotel Aloft: bordados, hamacas, tallado en madera y cerámica de la península, <b>Belice y Guatemala</b>.",
+  "source": "Gobierno de Q. Roo · Quinto Poder",
+  "date": "12 nov 2026"
+ },
+ {
+  "file": "09_ambiente_reciclaje",
+  "tag": "MEDIO AMBIENTE",
+  "big": "469",
+  "title": "toneladas *rescatadas para reciclar*",
+  "sub": "Según el Ayuntamiento, de enero a octubre. El <b>Reciclatón Punto Fijo</b> recibe de <b>lunes a viernes, 9 a 16 h</b>, y el <b>Kilo Verde</b> cambia reciclables por plantas el tercer viernes de cada mes.",
+  "source": "Ayuntamiento vía Noticaribe y Quinto Poder",
+  "date": "12 nov 2026"
+ },
+ {
+  "file": "10_trabajo_cambio_patron",
+  "tag": "TRABAJO",
+  "title": "Si cambia el dueño del hotel, *tu tiempo cuenta*",
+  "sub": "Un cambio de patrón o de razón social <b>no rompe tu contrato</b> ni borra tu antigüedad. El patrón anterior responde junto con el nuevo <b>6 meses</b> desde el aviso. Profedet <b>800&nbsp;911&nbsp;7877</b>.",
+  "source": "Ley Federal del Trabajo, art. 41",
+  "date": "13 nov 2026"
+ }
+]
