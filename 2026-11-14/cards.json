@@ -1,0 +1,86 @@
+[
+ {
+  "file": "01_hoteles_pequenos_hoteles",
+  "tag": "HOTELES",
+  "title": "Pequeños hoteles, *arriba del 70%*",
+  "sub": "Según su asociación, la ocupación de noviembre supera el 70%, pero <b>las tarifas siguen bajas</b>. Si en tu hotel siguen los días sin pago, asesoría gratis: Profedet <b>800&nbsp;911&nbsp;7877</b>.",
+  "source": "Asoc. de Pequeños Hoteles vía Heraldo Q. Roo, El Quintanarroense",
+  "date": "12–13 nov 2026"
+ },
+ {
+  "file": "02_clima_frente_frio",
+  "tag": "CLIMA",
+  "big": "28°",
+  "title": "Hoy: *lluvia y rachas de viento*",
+  "sub": "Máxima <b>28 °C</b>, mínima 23 °C y <b>90%</b> de probabilidad de lluvia. Por el frente frío 5, rachas de hasta 50 km/h y <b>oleaje de 1 a 2 m</b> en la costa: respeta las banderas.",
+  "source": "Meteored · Protección Civil vía Quadratín · SMN",
+  "date": "14 nov 2026"
+ },
+ {
+  "file": "03_tesirve_profeco_buen_fin",
+  "tag": "TE SIRVE",
+  "title": "Buen Fin: si no respetan *el precio anunciado*",
+  "sub": "Puedes exigir el precio, otro producto igual o tu dinero, más una <b>bonificación de al menos 20%</b>. Guarda fotos y tickets. Profeco: <b>800&nbsp;468&nbsp;8722</b>.",
+  "source": "Profeco vía Expansión, IDC",
+  "date": "Buen Fin: 13–17 nov 2026"
+ },
+ {
+  "file": "04_cultura_noche_estrellas",
+  "tag": "CULTURA",
+  "title": "Hoy, *Noche de las Estrellas* en la Uqroo",
+  "sub": "Telescopios para ver <b>la Luna y Saturno</b> (si el cielo lo permite), talleres y recorrido nocturno. <b>De 16:00 a 22:00, entrada libre</b>, campus Playa del Carmen.",
+  "source": "Noticaribe · Digital News QR",
+  "date": "14 nov 2026"
+ },
+ {
+  "file": "05_sargazo_semaforo_norte",
+  "tag": "SARGAZO",
+  "big": "91",
+  "title": "de 100 playas del norte: *poco o nada de sargazo*",
+  "sub": "Mapa Semáforo del Sargazo del 12 de noviembre: <b>88 playas en nivel bajo y 3 sin sargazo</b> en la zona norte de Q.&nbsp;Roo, que incluye Playa del Carmen.",
+  "source": "Semáforo del Sargazo vía Vive Noticias",
+  "date": "12 nov 2026"
+ },
+ {
+  "file": "06_seguridad_buen_fin",
+  "tag": "SEGURIDAD",
+  "title": "Buen Fin: *más patrullas* hasta el martes",
+  "sub": "Según el Ayuntamiento, hay rondines en zonas comerciales con <b>helicóptero y dron</b> del 13 al 17 de noviembre. No dejes compras en el auto. Emergencias <b>911</b>, denuncia anónima <b>089</b>.",
+  "source": "Ayuntamiento de Playa del Carmen · Quinta Fuerza",
+  "date": "13 nov 2026"
+ },
+ {
+  "file": "07_trabajo_sobrecarga",
+  "tag": "TRABAJO",
+  "big": "54%",
+  "title": "de trabajadores: *sobrecarga* en temporada alta",
+  "sub": "Encuesta de OCC antes del Buen Fin. Tu jornada tiene tope: <b>máximo 3 horas extra al día, 3 veces por semana</b>, pagadas al doble. Asesoría gratis: Profedet <b>800&nbsp;911&nbsp;7877</b>.",
+  "source": "OCC vía Publimetro · Ley Federal del Trabajo",
+  "date": "10 nov 2026"
+ },
+ {
+  "file": "08_deporte_pesca_orilla",
+  "tag": "DEPORTE",
+  "big": "$20,500",
+  "title": "en premios: *torneo de pesca de orilla*",
+  "sub": "Domingo <b>22 de noviembre, de 6:00 a 11:00</b>, en Playa Paraíso. Es de captura y liberación; la preinscripción será un día antes.",
+  "source": "Noticaribe",
+  "date": "13 nov 2026"
+ },
+ {
+  "file": "09_educacion_aulas",
+  "tag": "EDUCACIÓN",
+  "title": "11 aulas nuevas y *dos prepas en camino*",
+  "sub": "Según la Secretaría de Educación estatal, ya se terminaron aulas de preescolar, primaria y secundaria. Las prepas Margarita Maza de Playa y Puerto Aventuras abrirían en <b>el ciclo 2027-2028</b>.",
+  "source": "SEQ vía Noticaribe",
+  "date": "11 nov 2026"
+ },
+ {
+  "file": "10_trabajo_recibo_sat",
+  "tag": "TRABAJO",
+  "title": "Revisa en el SAT *el sueldo que reportan*",
+  "sub": "Con tu RFC y contraseña, entra al <b>Visor de comprobantes de nómina</b> en sat.gob.mx. Si tu sueldo no coincide, asesoría gratis: Profedet <b>800&nbsp;911&nbsp;7877</b>.",
+  "source": "SAT · Expansión",
+  "date": "14 nov 2026"
+ }
+]
