@@ -1,0 +1,83 @@
+[
+ {
+  "file": "01_trabajo_salario_minimo_2027",
+  "tag": "TRABAJO",
+  "title": "Salario mínimo 2027: *ya se negocia el aumento*",
+  "sub": "Hoy es de <b>$315.04 al día</b>. Sindicatos piden 12% y patrones, entre 6% y 10%. La Conasami sesiona del 23 al 27 de noviembre y <b>el nuevo salario rige desde el 1 de enero</b>.",
+  "source": "Infobae · Expansión · Cadena Política",
+  "date": "10–14 nov 2026"
+ },
+ {
+  "file": "02_clima_domingo",
+  "tag": "CLIMA",
+  "big": "28°",
+  "title": "Domingo de *lluvias y viento*",
+  "sub": "Máxima <b>28 °C</b>, mínima 24 °C y <b>70%</b> de probabilidad de lluvia, con chubascos fuertes en algunas zonas por el frente frío 5. Viento del noreste de hasta 34 km/h y <b>oleaje de 1 a 2 m</b>.",
+  "source": "Meteored · SMN vía Ruptura360, Infobae",
+  "date": "15 nov 2026"
+ },
+ {
+  "file": "03_tesirve_pension_bienestar",
+  "tag": "TE SIRVE",
+  "title": "Pensión Bienestar: *pagos de esta semana*",
+  "sub": "Según la letra de tu primer apellido: <b>M</b>, martes 17 y miércoles 18 · <b>N, Ñ, O</b>, jueves 19 · <b>P, Q</b>, viernes 20. El lunes 16 no hay depósitos. Adultos mayores: <b>$6,400</b>.",
+  "source": "Infobae · N+",
+  "date": "16–20 nov 2026"
+ },
+ {
+  "file": "04_salud_vacunas_invierno",
+  "tag": "SALUD",
+  "title": "Vacunas gratis *contra influenza y COVID*",
+  "sub": "Campaña de invierno de los Servicios Estatales de Salud hasta el <b>2 de abril de 2027</b>, también contra neumococo y sarampión. En centros de salud, <b>de lunes a viernes de 8:00 a 13:00</b>.",
+  "source": "Salud Q. Roo vía Luces del Siglo · Cancún Mío",
+  "date": "5 nov 2026"
+ },
+ {
+  "file": "05_sargazo_a_la_baja",
+  "tag": "SARGAZO",
+  "title": "Sargazo: *sigue a la baja*",
+  "sub": "Según la Universidad del Sur de Florida, en octubre la cantidad en el Caribe <b>se redujo a menos de la mitad</b> y seguirá bajando <b>hasta fines de noviembre o diciembre</b>. Aún puede haber recales menores.",
+  "source": "USF Sargassum Watch vía CARICOOS",
+  "date": "Boletín del 31 oct 2026"
+ },
+ {
+  "file": "06_agua_monitoreo_subsuelo",
+  "tag": "AGUA",
+  "title": "Plan para *vigilar el agua del subsuelo*",
+  "sub": "Según la Tesorería municipal, en 2027 empezará a medir la calidad del agua subterránea para detectar <b>derrames de combustible y aguas negras</b>. Se pagaría con el <b>derecho de saneamiento que pagan los turistas</b>.",
+  "source": "De Luna",
+  "date": "13 nov 2026"
+ },
+ {
+  "file": "07_trabajo_descuentos",
+  "tag": "TRABAJO",
+  "title": "¿Te descuentan *platos rotos o faltantes*?",
+  "sub": "La ley prohíbe descontarte del sueldo salvo casos como deudas con el patrón, Infonavit o Fonacot. Por deudas, <b>máximo 30% de lo que ganas arriba del mínimo</b>. Asesoría gratis: Profedet <b>800&nbsp;911&nbsp;7877</b>.",
+  "source": "Ley Federal del Trabajo, art. 110",
+  "date": "15 nov 2026"
+ },
+ {
+  "file": "08_hoteles_contratan",
+  "tag": "HOTELES",
+  "title": "Hoteles *empiezan a contratar*",
+  "sub": "Según Grand Velas Riviera Maya, la temporada alta ya abre puestos. En Playa, la bolsa de empleo municipal atiende en <b>Calle 1 Sur con Av. 20, de lunes a viernes de 9:00 a 14:00</b>.",
+  "source": "El Quintanarroense · Ayuntamiento de Solidaridad",
+  "date": "14 nov 2026"
+ },
+ {
+  "file": "09_buena_noticia_aniversario",
+  "tag": "BUENA NOTICIA",
+  "title": "*Feliz aniversario*, Playa del Carmen",
+  "sub": "El nombre aparece por primera vez en un documento del <b>14 de noviembre de 1902</b>: ya son 124 años. Se reconoció a las familias fundadoras <b>Quián, Dzib, Puc y Aguilar</b>.",
+  "source": "Quinta Fuerza · Periodistas Q. Roo",
+  "date": "14 nov 2026"
+ },
+ {
+  "file": "10_trabajo_capacitacion",
+  "tag": "TRABAJO",
+  "title": "Tu patrón *debe capacitarte*",
+  "sub": "La ley obliga a darte capacitación para tu puesto, <b>dentro de tu horario de trabajo</b> salvo acuerdo distinto. Si no te la dan, asesoría gratis: Profedet <b>800&nbsp;911&nbsp;7877</b>.",
+  "source": "Ley Federal del Trabajo, art. 153-A",
+  "date": "15 nov 2026"
+ }
+]
