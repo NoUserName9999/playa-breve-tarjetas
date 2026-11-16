@@ -1,0 +1,87 @@
+[
+ {
+  "file": "01_trabajo_hoy_pago_triple",
+  "tag": "TRABAJO",
+  "big": "HOY",
+  "title": "Descanso obligatorio: *si trabajas, pago triple*",
+  "sub": "Este lunes 16 se conmemora la Revolución. Si te toca turno, te pagan <b>tu salario del día más el doble</b>. Si no aparece en tu recibo, asesoría gratis en Profedet: <b>800 911 7877</b>.",
+  "source": "Ley Federal del Trabajo, arts. 74 y 75",
+  "date": "16 nov 2026"
+ },
+ {
+  "file": "02_clima_lunes",
+  "tag": "CLIMA",
+  "big": "29°",
+  "title": "Lunes de *chubascos y brisa*",
+  "sub": "Máxima <b>29 °C</b>, mínima 24 °C y <b>70%</b> de probabilidad de chubascos, en poca cantidad. Viento del noreste de 18 a 33 km/h. El SMN prevé <b>lluvias fuertes y norte el miércoles</b>.",
+  "source": "Meteored · SMN vía La Razón",
+  "date": "16 nov 2026"
+ },
+ {
+  "file": "03_colonias_28_de_julio",
+  "tag": "COLONIAS",
+  "title": "Lluvia inunda calles *en la 28 de Julio*",
+  "sub": "El domingo el agua llegó a las puertas en <b>Calle Felipe Carrillo Puerto con Av. Tulum</b>. Vecinos piden <b>dar mantenimiento a los pozos de absorción</b>. Según el Ayuntamiento, el Operativo Tormenta sigue activo. Emergencias: 911.",
+  "source": "Por Esto · Ayuntamiento vía Noticaribe",
+  "date": "15 nov 2026"
+ },
+ {
+  "file": "04_vivienda_precio",
+  "tag": "VIVIENDA",
+  "big": "10.4%",
+  "title": "sube el precio *de la vivienda en Playa*",
+  "sub": "Es el alza en un año, según la <b>Sociedad Hipotecaria Federal</b> (3er trimestre de 2026). Playa es <b>6.º de 74 municipios</b>; el promedio nacional subió 7.6%.",
+  "source": "SHF vía Ruptura360",
+  "date": "14 nov 2026"
+ },
+ {
+  "file": "05_tesirve_buen_fin",
+  "tag": "TE SIRVE",
+  "title": "Buen Fin: *se acaba el martes*",
+  "sub": "Termina el <b>martes 17</b>. Guarda tu ticket y una foto de la oferta. Si no te respetan el precio o la garantía, queja en Profeco: <b>800 468 8722</b>.",
+  "source": "UnoTV · Profeco",
+  "date": "16 nov 2026"
+ },
+ {
+  "file": "06_trabajo_hogar",
+  "tag": "TRABAJO",
+  "title": "Trabajadoras del hogar: *aguinaldo e IMSS*",
+  "sub": "Tienen derecho a <b>al menos 15 días de aguinaldo</b> antes del 20 de diciembre, y el patrón debe <b>darlas de alta en el IMSS</b> desde el primer día. Dudas gratis en Profedet: 800 911 7877.",
+  "source": "Excélsior · Infobae · IMSS",
+  "date": "16 nov 2026"
+ },
+ {
+  "file": "07_hoteles_aperturas",
+  "tag": "HOTELES",
+  "big": "3",
+  "title": "hoteles nuevos *abren en diciembre*",
+  "sub": "<b>Park Hyatt Riviera Maya</b> (3 dic, entre Cancún y Puerto Morelos), <b>Casa Nizuc</b> (8 dic) y <b>Grand Hyatt Cancún</b> (500 cuartos). Busca vacantes en sus páginas oficiales y <b>nunca pagues por un empleo</b>.",
+  "source": "Heraldo de México Q. Roo",
+  "date": "10 nov 2026"
+ },
+ {
+  "file": "08_tesirve_regreso_clases",
+  "tag": "TE SIRVE",
+  "title": "Martes: *vuelven clases y bancos*",
+  "sub": "Termina el puente de cuatro días. El martes 17 hay clases en <b>preescolar, primaria y secundaria</b>, según el calendario de la SEP, y <b>las sucursales bancarias abren</b>.",
+  "source": "SEP vía Récord · CNBV vía Expansión",
+  "date": "16 nov 2026"
+ },
+ {
+  "file": "09_comunidad_mercadito",
+  "tag": "COMUNIDAD",
+  "big": "40",
+  "title": "negocios en *el Mercadito de Navidad*",
+  "sub": "En la explanada del <b>nuevo Palacio Municipal</b> (Av. CTM), de <b>6 a 11 de la noche</b>, hasta el 30 de noviembre. Según el Ayuntamiento, aún hay lugares gratis para vender.",
+  "source": "Ayuntamiento de Playa del Carmen",
+  "date": "15 nov 2026"
+ },
+ {
+  "file": "10_trabajo_monto_fijo",
+  "tag": "TRABAJO",
+  "title": "Salario mínimo 2027: *debate por el extra fijo*",
+  "sub": "Cada año, además del porcentaje, se suma un <b>monto fijo</b> (MIR). Sindicatos piden quitarlo y subir solo por porcentaje; patrones, mantenerlo; el Gobierno, <b>reducirlo poco a poco</b>. Se decide a inicios de diciembre.",
+  "source": "Expansión",
+  "date": "11 nov 2026"
+ }
+]
