@@ -1,0 +1,85 @@
+[
+ {
+  "file": "01_hoteles_despidos_av15",
+  "tag": "HOTELES",
+  "title": "Despedidos de un hotel *protestan en la Av. 15*",
+  "sub": "Extrabajadores del B&B by Playa del Karma denuncian que les piden <b>firmar renuncia</b> para pagarles. Si te pasa, <b>no firmes</b> y pide asesoría gratis: Profedet <b>800 911 7877</b>.",
+  "source": "Noticaribe · Por Esto · El Quintanarroense",
+  "date": "16 nov 2026"
+ },
+ {
+  "file": "02_clima_martes",
+  "tag": "CLIMA",
+  "big": "28°",
+  "title": "Martes lluvioso: *paraguas a la mano*",
+  "sub": "Máxima <b>28 °C</b>, mínima 23 °C y <b>70%</b> de probabilidad de lluvia. Para hoy y mañana, Protección Civil estatal prevé chubascos fuertes y <b>rachas de hasta 50 km/h</b> con tormentas.",
+  "source": "Meteored · Protección Civil Q. Roo",
+  "date": "17 nov 2026"
+ },
+ {
+  "file": "03_movilidad_mototaxis_placas",
+  "tag": "MOVILIDAD",
+  "big": "680",
+  "title": "de 2,000 mototaxis *ya tienen placas*",
+  "sub": "Es <b>1 de cada 3</b> en Playa, según el SATQ (Hacienda estatal). La meta es llegar al <b>60% a fin de año</b>.",
+  "source": "SATQ vía Noticaribe",
+  "date": "16 nov 2026"
+ },
+ {
+  "file": "04_sargazo_centro_tratamiento",
+  "tag": "SARGAZO",
+  "title": "Playa construye un centro *para tratar el sargazo*",
+  "sub": "Según la presidenta municipal, irá <b>de la recolección al tratamiento</b> del alga, con apoyo de Fonatur. Es la primera sede del Centro Experimental de Acopio y Tratamiento del Sargazo.",
+  "source": "Ayuntamiento vía Noticaribe y Quinta Fuerza",
+  "date": "16 nov 2026"
+ },
+ {
+  "file": "05_tesirve_adeudos_sin_recargos",
+  "tag": "TE SIRVE",
+  "title": "Adeudos sin recargos: *hasta el 30 de noviembre*",
+  "sub": "Maratón de Descuentos del Ayuntamiento: <b>100% de recargos</b> de predial (2021–2025) y de basura, y <b>50% en multas de tránsito</b>, con excepciones. Confirma en Tesorería.",
+  "source": "Reportero Ambulante · Heraldo de México Q. Roo",
+  "date": "17 nov 2026"
+ },
+ {
+  "file": "06_colonias_san_judas_tadeo",
+  "tag": "COLONIAS",
+  "title": "San Judas Tadeo: *espacios para parques*",
+  "sub": "En la regularización de <b>29 hectáreas</b>, el Comisariado Ejidal dice que se apartarán áreas para <b>parques y servicios públicos</b>. Los levantamientos van al 70–80%.",
+  "source": "Comisariado Ejidal vía Noticaribe",
+  "date": "16 nov 2026"
+ },
+ {
+  "file": "07_trabajo_aguinaldo_calculo",
+  "tag": "TRABAJO",
+  "big": "$6,000",
+  "title": "de aguinaldo si ganas *$12,000 al mes*",
+  "sub": "Mínimo <b>15 días de salario</b> ($400 diarios × 15), antes del 20 de diciembre. Si te despidieron o entraste este año, te toca la <b>parte proporcional</b>: salario diario × 15 ÷ 365 × días trabajados.",
+  "source": "Ley Federal del Trabajo, art. 87 · Diario de Yucatán",
+  "date": "17 nov 2026"
+ },
+ {
+  "file": "08_turismo_repunte",
+  "tag": "TURISMO",
+  "title": "Vuelven turistas, *pero menos que en 2025*",
+  "sub": "Artesanos y prestadores de servicios ven <b>más visitantes extranjeros</b>. Piden <b>mejor servicio y más seguridad</b> para el turista.",
+  "source": "Por Esto",
+  "date": "16 nov 2026"
+ },
+ {
+  "file": "09_luz_cable_cozumel",
+  "tag": "LUZ",
+  "title": "Cable de luz a Cozumel *por la Av. Las Torres*",
+  "sub": "Iría <b>bajo tierra</b> hasta Playa 88, según Obras Públicas; el acceso a esa playa podría cerrarse por ratos. El Ayuntamiento pedirá a CFE el <b>permiso ambiental</b> antes de autorizar.",
+  "source": "Heraldo de México Q. Roo · Noticaribe",
+  "date": "16 nov 2026"
+ },
+ {
+  "file": "10_trabajo_otra_empresa",
+  "tag": "TRABAJO",
+  "title": "¿Te pasan a otra empresa? *La ley lo limita*",
+  "sub": "Desde 2021 está <b>prohibido que una empresa te “preste” a otra</b>. Antes de firmar un contrato nuevo o una renuncia, pide asesoría gratis: Profedet <b>800 911 7877</b>.",
+  "source": "Ley Federal del Trabajo, arts. 12 y 13",
+  "date": "17 nov 2026"
+ }
+]
