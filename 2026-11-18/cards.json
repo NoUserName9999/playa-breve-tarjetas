@@ -1,0 +1,84 @@
+[
+ {
+  "file": "01_empleo_bolsa_trabajo",
+  "tag": "EMPLEO",
+  "title": "Feria del empleo: *la bolsa sigue abierta*",
+  "sub": "La última feria del año ofreció <b>más de 500 vacantes</b> en hotelería, comercio, transporte y banca, según el Ayuntamiento. Si no fuiste, la <b>Dirección de Empleo</b> tiene bolsa permanente: 984&nbsp;877&nbsp;3050.",
+  "source": "Ayuntamiento · Reportero Ambulante",
+  "date": "17 nov 2026"
+ },
+ {
+  "file": "02_clima_miercoles",
+  "tag": "CLIMA",
+  "big": "29°/22°",
+  "title": "Hoy, *lluvia ligera y brisa*",
+  "sub": "<b>55 a 70%</b> de probabilidad de chubascos, en poca cantidad, y viento del este de <b>13 a 27 km/h</b>. El jueves, parecido.",
+  "source": "Meteored Playa del Carmen · AccuWeather",
+  "date": "18 nov 2026"
+ },
+ {
+  "file": "03_cultura_cine_gratis",
+  "tag": "CULTURA",
+  "title": "Cine gratis *desde hoy y hasta el domingo*",
+  "sub": "Festival Internacional de Cinematografía y Series, del <b>18 al 22 de noviembre</b>, con funciones <b>sin costo</b> en universidades (Uqroo, Anáhuac, La Salle, Unicaribe, UNID) y el Museo Frida Kahlo. Horarios: <b>@cinequintanaroo</b>.",
+  "source": "La Verdad · El Congresista",
+  "date": "10–11 nov 2026"
+ },
+ {
+  "file": "04_sargazo_financiamiento",
+  "tag": "SARGAZO",
+  "title": "Buscan *dinero internacional* contra el sargazo",
+  "sub": "Según la SEMA, Q.&nbsp;Roo habló con el <b>Banco Centroamericano de Integración Económica</b> para financiar <b>barreras en mar abierto</b> y la recuperación de playas. Propusieron un equipo de trabajo para armar los proyectos.",
+  "source": "SEMA Quintana Roo · Noticaribe",
+  "date": "17 nov 2026"
+ },
+ {
+  "file": "05_tesirve_licencias",
+  "tag": "TE SIRVE",
+  "title": "Negocios chicos: *licencias en enero*",
+  "sub": "Según el Ayuntamiento, desde <b>enero de 2027</b> habrá una campaña para entregar <b>licencias de funcionamiento</b> a negocios de bajo y mediano riesgo, con menos trámites.",
+  "source": "Ayuntamiento · Quinto Poder",
+  "date": "17 nov 2026"
+ },
+ {
+  "file": "06_noticia_cobro_ambiental",
+  "tag": "NOTICIA",
+  "title": "Cobro ambiental: *por cuarto y por noche*",
+  "sub": "El Cabildo aprobó cobrar <b>65% de una UMA por cuarto y noche</b> (unos $76 hoy), en vez de cobrar por persona; incluye rentas vacacionales. Falta el aval del <b>Congreso</b>.",
+  "source": "Noticaribe · Ayuntamiento",
+  "date": "17 nov 2026"
+ },
+ {
+  "file": "07_trabajo_viernes_20",
+  "tag": "TRABAJO",
+  "title": "Viernes 20: *se trabaja normal*",
+  "sub": "El descanso obligatorio por la Revolución fue el <b>lunes 16</b>. Si trabajaste ese día, te tocaba <b>pago triple</b>. Si no te lo dieron, asesoría gratis en Profedet: <b>800&nbsp;911&nbsp;7877</b>.",
+  "source": "LFT arts. 74 y 75 · UnoTV · Informador",
+  "date": "17 nov 2026"
+ },
+ {
+  "file": "08_cultura_cocineras",
+  "tag": "CULTURA",
+  "title": "Cocina tradicional, *gratis en Tulum*",
+  "sub": "Primer encuentro estatal de cocineras tradicionales, con cocineras de <b>Playa del Carmen</b>, Tulum, Carrillo Puerto y Lázaro Cárdenas: <b>21 y 22 de noviembre, de 11 a 17 h</b>, en el Parque del Jaguar.",
+  "source": "Gobierno de Q. Roo (Sedetur)",
+  "date": "17 nov 2026"
+ },
+ {
+  "file": "09_comunidad_poliforum",
+  "tag": "COMUNIDAD",
+  "big": "3,000",
+  "title": "personas el domingo *en el Poliforum*",
+  "sub": "Es el <b>21 Encuentro Mariano</b>, de <b>9:30 a 19:00 h</b>, que termina con misa, según su organizador. Si pasas por la zona, <b>sal con tiempo</b>.",
+  "source": "El Quintanarroense",
+  "date": "17 nov 2026"
+ },
+ {
+  "file": "10_trabajo_contrato_copia",
+  "tag": "TRABAJO",
+  "title": "Nuevo empleo: *pide tu copia del contrato*",
+  "sub": "Sueldo, horario y puesto deben constar <b>por escrito</b>, en al menos <b>dos ejemplares: uno es tuyo</b>. Si no hay contrato, la falta es del patrón y <b>no pierdes tus derechos</b>.",
+  "source": "Ley Federal del Trabajo, arts. 24 a 26",
+  "date": "18 nov 2026"
+ }
+]
