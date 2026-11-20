@@ -1,0 +1,86 @@
+[
+{
+"file": "01_trabajo_salario_semana_clave",
+"tag": "TRABAJO",
+"big": "23–27 NOV",
+"bigSize": 200,
+"title": "Semana clave *para el salario de 2027*",
+"sub": "La Conasami sesiona para definir el <b>aumento al salario mínimo</b>, hoy de $315.04 diarios. Aplica desde el <b>1 de enero</b>.",
+"source": "UnoTV · Infobae",
+"date": "20 nov 2026"
+},
+{
+"file": "02_clima_viernes",
+"tag": "CLIMA",
+"big": "29°/21°",
+"title": "Viernes con *chubascos y brisa*",
+"sub": "Lluvia probable (<b>70%</b>) y viento del noroeste de 12 a 25 km/h. El sábado, <b>parcialmente nublado</b>.",
+"source": "Meteored · Coeproc/SMN",
+"date": "20 nov 2026"
+},
+{
+"file": "03_tesirve_carrera_gratis",
+"tag": "TE SIRVE",
+"title": "Carrera y charlas gratis *contra la violencia*",
+"sub": "<b>Sábado 28, 6:00 am</b>: carrera-caminata de 3 km en la plaza 28 de Julio. A las 12:00, charla sobre la <b>Ley Olimpia</b> en el Teatro de la Ciudad.",
+"source": "Ayuntamiento de Solidaridad",
+"date": "20 nov 2026"
+},
+{
+"file": "04_noticia_separos_camaras",
+"tag": "NOTICIA",
+"title": "Los separos de Playa *no tienen video*",
+"sub": "El Ayuntamiento admite que no hay cámaras e investiga la denuncia de un turista canadiense que dice que lo <b>extorsionaron estando detenido</b>. La SSC no lo ha confirmado.",
+"source": "Noticaribe",
+"date": "19 nov 2026"
+},
+{
+"file": "05_sargazo_160_mil",
+"tag": "SARGAZO",
+"big": "160,000",
+"title": "toneladas de sargazo *recogidas en 2026*",
+"sub": "En todo Q. Roo, según la Semar: casi el doble que en 2025. Llega menos alga y <b>preparan barreras nuevas</b> para la próxima temporada.",
+"source": "Semar vía Luces del Siglo",
+"date": "18 nov 2026"
+},
+{
+"file": "06_medio_ambiente_chen_zubul",
+"tag": "MEDIO AMBIENTE",
+"title": "Foro para cuidar *Chen Zubul*",
+"sub": "Selva, manglar y dunas dentro de la ciudad, con <b>437 especies</b>. Foro abierto: <b>viernes 27, de 5 a 8 pm</b>, Biblioteca Jaime Torres Bodet, Colosio.",
+"source": "De Luna",
+"date": "20 nov 2026"
+},
+{
+"file": "07_trabajo_si_no_aplican",
+"tag": "TRABAJO",
+"title": "Si no te aplican el aumento, *esto puedes hacer*",
+"sub": "En enero sube el salario mínimo y la jornada baja a 46 horas. Guarda <b>recibos y horarios</b>; asesoría gratis: <b>Profedet 800 911 7877</b>.",
+"source": "Infobae · Profedet",
+"date": "20 nov 2026"
+},
+{
+"file": "08_deporte_inter_playa",
+"tag": "DEPORTE",
+"title": "Hoy juega Inter Playa, *en casa*",
+"sub": "Recibe a <b>Boston Cancún</b> a las <b>5:00 pm</b> en el Estadio Mario Villanueva Madrid. Liga TDP, grupo I.",
+"source": "Por Esto",
+"date": "20 nov 2026"
+},
+{
+"file": "09_turismo_puerto_cruceros",
+"tag": "TURISMO",
+"title": "Xcaret revive la idea *de un puerto de cruceros*",
+"sub": "Según su fundador, el grupo tiene terreno y <b>espera autorizaciones</b>. No se ha anunciado <b>ningún permiso</b>.",
+"source": "Quinta Fuerza",
+"date": "19 nov 2026"
+},
+{
+"file": "10_trabajo_aguinaldo_reclamar",
+"tag": "TRABAJO",
+"title": "Aguinaldo sin pagar: *puedes reclamarlo*",
+"sub": "El plazo es el <b>20 de diciembre</b>. Si no te pagan, tienes <b>un año</b> para reclamar: CCL Playa 984 688 5709 o Profedet 800 911 7877.",
+"source": "Ley Federal del Trabajo, arts. 87 y 516",
+"date": "20 nov 2026"
+}
+]
