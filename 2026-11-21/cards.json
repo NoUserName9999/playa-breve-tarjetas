@@ -1,0 +1,93 @@
+[
+{
+"file": "01_trabajo_rol_diciembre",
+"tag": "TRABAJO",
+"big": "25 DIC · 1 ENE",
+"bigSize": 150,
+"title": "Rol de diciembre: *dos fechas con pago triple*",
+"sub": "El <b>25 de diciembre y el 1 de enero</b> son descanso obligatorio. Si te toca turno, recibes <b>tu salario más el doble</b>. Dudas gratis: Profedet 800&nbsp;911&nbsp;7877.",
+"source": "Ley Federal del Trabajo, arts. 74 y 75",
+"date": "21 nov 2026"
+},
+{
+"file": "02_clima_sabado",
+"tag": "CLIMA",
+"big": "29°/22°",
+"title": "Sábado agradable, *lluvia ligera posible*",
+"sub": "<b>50%</b> de probabilidad de lluvia, en poca cantidad, y brisa del sureste de <b>13 a 22 km/h</b>. El domingo, parecido: 29° y 22°.",
+"source": "Meteored · SMN",
+"date": "21 nov 2026"
+},
+{
+"file": "03_noticia_exalcaldesa",
+"tag": "NOTICIA",
+"title": "Detienen a la exalcaldesa *Lili Campos*",
+"sub": "La Fiscalía de Q.&nbsp;Roo le atribuye un <b>probable daño de más de $62 millones</b> por contratos de lavado de vehículos del municipio (2022–2024). Está en el Cereso de Cancún; <b>no hay sentencia</b>.",
+"source": "Fiscalía de Q. Roo vía Noticaribe · El Financiero",
+"date": "20 nov 2026"
+},
+{
+"file": "04_tesirve_pension_bienestar",
+"tag": "TE SIRVE",
+"big": "R–Z",
+"bigSize": 220,
+"title": "Pensión Bienestar: *el pago final de 2026*",
+"sub": "<b>R</b>: lunes 23 y martes 24 · <b>S</b>: miércoles 25 · <b>T,&nbsp;U,&nbsp;V</b>: jueves 26 · <b>W&nbsp;a&nbsp;Z</b>: viernes 27. Adultos mayores reciben <b>$6,400</b>.",
+"source": "Secretaría de Bienestar vía UnoTV · Ámbito",
+"date": "20 nov 2026"
+},
+{
+"file": "05_sargazo_ninguna_abundante",
+"tag": "SARGAZO",
+"big": "0",
+"title": "playas del norte con *sargazo abundante*",
+"sub": "Mapa del 20 de noviembre: en la zona norte de Q.&nbsp;Roo, que incluye Playa, <b>91 playas en nivel bajo, 3 sin sargazo y 6 en moderado</b>.",
+"source": "Semáforo del Sargazo vía La Verdad",
+"date": "20 nov 2026"
+},
+{
+"file": "06_medio_ambiente_cenote",
+"tag": "MEDIO AMBIENTE",
+"title": "Quinta bis y 38: *piden salvar un cenote*",
+"sub": "Vecinos pidieron al Ayuntamiento conservar <b>un cenote y dos álamos</b> en un predio privado. El Consejo Municipal de Medio Ambiente acordó <b>pausar el traslado de un álamo</b>.",
+"source": "Noticaribe",
+"date": "17 nov 2026"
+},
+{
+"file": "07_trabajo_prima_dominical",
+"tag": "TRABAJO",
+"big": "25%",
+"title": "Turno en domingo: *te toca prima*",
+"sub": "Es <b>al menos 25% de tu salario del día</b>, aparte de tu pago normal. Si además es tu día de descanso, te pagan <b>doble extra</b>.",
+"source": "Ley Federal del Trabajo, arts. 71 y 73",
+"date": "21 nov 2026"
+},
+{
+"file": "08_turismo_xcaret_familias",
+"tag": "TURISMO",
+"title": "Xcaret planea un hotel *para familias*",
+"sub": "Según su presidente, sería una opción <b>más barata</b>, con cuartos para hasta seis personas y entrada a parques. Lo estudian; calcula <b>3 o 4 años</b>.",
+"source": "Expansión",
+"date": "18 nov 2026"
+},
+{
+"file": "09_turismo_lanchas_diciembre",
+"tag": "TURISMO",
+"big": "40–50%",
+"bigSize": 200,
+"title": "de lo normal: *lo que esperan los lancheros*",
+"sub": "La cooperativa turística de pesca y snorkel de Playa ve <b>más reservas para diciembre</b> que en noviembre, tras dos meses flojos.",
+"source": "Noticias Playa del Carmen",
+"date": "20 nov 2026"
+},
+{
+"file": "10_trabajo_aguinaldo_isr",
+"tag": "TRABAJO",
+"big": "$3,519",
+"bigSize": 220,
+"title": "de tu aguinaldo, *libres de impuesto*",
+"sub": "Hasta <b>30 UMA</b> del aguinaldo no paga ISR; solo se descuenta impuesto <b>sobre lo que pase de esa cantidad</b>. Revisa tu recibo de nómina.",
+"source": "Ley del ISR, art. 93 · Ruptura360",
+"date": "21 nov 2026"
+}
+]
