@@ -1,0 +1,90 @@
+[
+{
+"file": "01_trabajo_salario_propuestas",
+"tag": "TRABAJO",
+"title": "Salario mínimo 2027: *lo que se pide en la mesa*",
+"sub": "Hoy es <b>$315.04 al día</b>. Las centrales obreras proponen <b>de 12% a 18%</b>; los empresarios, menos. La Conasami sesiona <b>del 23 al 27 de noviembre</b> y el nuevo salario regiría desde el 1 de enero.",
+"source": "UnoTV · Publimetro",
+"date": "22 nov 2026"
+},
+{
+"file": "02_clima_domingo",
+"tag": "CLIMA",
+"big": "30°/22°",
+"title": "Domingo agradable, *poca lluvia*",
+"sub": "Sol y nubes, con <b>20%</b> de probabilidad de lluvia por la tarde y viento del noreste de <b>15 a 27 km/h</b>. El frente frío 8 no afecta a Q.&nbsp;Roo.",
+"source": "Meteored · SMN vía Ruptura360",
+"date": "22 nov 2026"
+},
+{
+"file": "03_tesirve_ine_vigencia",
+"tag": "TE SIRVE",
+"big": "2026",
+"title": "Si tu INE dice 2026, *vence en diciembre*",
+"sub": "Para votar en junio de 2027, renuévala <b>a más tardar el 25 de enero</b>. El INE estudia extender su validez, pero <b>aún no lo aprueba</b>. Lleva acta de nacimiento, identificación con foto y comprobante de domicilio.",
+"source": "Por Esto · Crónica",
+"date": "22 nov 2026"
+},
+{
+"file": "04_agua_aguakan_corte",
+"tag": "AGUA",
+"title": "La Suprema Corte *revisa el caso Aguakan*",
+"sub": "El Congreso de Q.&nbsp;Roo anuló en 2023 la prórroga que la extendía <b>hasta 2053</b>. Aguakan se amparó y <b>sigue dando el servicio</b> en Playa. Fugas y fallas: <b>073</b>.",
+"source": "La Jornada · De Luna · Luces del Siglo",
+"date": "17–18 nov 2026"
+},
+{
+"file": "05_tesirve_mercadito",
+"tag": "TE SIRVE",
+"big": "HASTA EL 30",
+"bigSize": 150,
+"title": "Mercadito Navideño, *de 6 a 11 de la noche*",
+"sub": "En la explanada del <b>Nuevo Palacio Municipal</b>, con <b>40 negocios locales</b>; más de la mitad venden por primera vez.",
+"source": "Ayuntamiento vía Quinta Fuerza",
+"date": "15 nov 2026"
+},
+{
+"file": "06_comunidad_desfile",
+"tag": "COMUNIDAD",
+"big": "6,748",
+"title": "personas en el *desfile del 20 de noviembre*",
+"sub": "<b>45 contingentes y 48 vehículos</b> recorrieron la 34, la 30 y Constituyentes. Según Seguridad Pública, <b>sin incidentes</b>.",
+"source": "Ayuntamiento vía Quinta Fuerza",
+"date": "20 nov 2026"
+},
+{
+"file": "07_trabajo_checador",
+"tag": "TRABAJO",
+"big": "1 ENE 2027",
+"bigSize": 150,
+"title": "Checador digital, *obligatorio desde enero*",
+"sub": "Tu entrada y salida deberán registrarse <b>de forma electrónica</b>. Ese registro sirve para probar tus <b>horas extra</b>. Mientras, anota tus horarios. Dudas gratis: Profedet 800&nbsp;911&nbsp;7877.",
+"source": "LFT art. 132 · Diario de Yucatán · Publimetro",
+"date": "22 nov 2026"
+},
+{
+"file": "08_trabajo_vacaciones",
+"tag": "HOTELES",
+"title": "Tus vacaciones *no se cambian por dinero*",
+"sub": "La ley prohíbe pagarlas en lugar de dártelas, salvo si termina tu contrato. Te las deben dar <b>dentro de los 6 meses</b> después de cumplir cada año, aunque sea temporada alta. Profedet 800&nbsp;911&nbsp;7877.",
+"source": "Ley Federal del Trabajo, arts. 79 y 81",
+"date": "22 nov 2026"
+},
+{
+"file": "09_clima_lunes",
+"tag": "CLIMA",
+"title": "Mañana lunes: *lleva paraguas*",
+"sub": "Se pronostican <b>chubascos</b> en Playa, con máxima de 28 a 29 °C y viento del noreste. Si vas al trabajo por la 307, <b>sal con tiempo</b>.",
+"source": "Meteored · Tutiempo",
+"date": "22 nov 2026"
+},
+{
+"file": "10_trabajo_maternidad",
+"tag": "TRABAJO",
+"big": "12",
+"title": "semanas de descanso *por maternidad*",
+"sub": "<b>6 antes y 6 después del parto</b>; puedes pasar hasta 4 semanas de antes a después. El IMSS paga el <b>100% de tu salario</b> si cotizaste 30 semanas en el último año. Profedet 800&nbsp;911&nbsp;7877.",
+"source": "LFT art. 170 · Ley del Seguro Social art. 101 · IMSS",
+"date": "22 nov 2026"
+}
+]
