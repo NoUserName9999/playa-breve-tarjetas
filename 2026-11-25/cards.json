@@ -1,0 +1,89 @@
+[
+ {
+  "file": "01_hoteles_aguinaldo_proporcional",
+  "tag": "HOTELES",
+  "title": "¿Te despidieron? *Igual te toca aguinaldo*",
+  "sub": "Aunque ya no trabajes ahí, te deben la <b>parte proporcional</b> de lo que trabajaste en 2026. Fecha límite: <b>20 de diciembre</b>. Asesoría gratis: Profedet <b>800&nbsp;911&nbsp;7877</b>.",
+  "source": "LFT art. 87 · Por Esto",
+  "date": "25 nov 2026"
+ },
+ {
+  "file": "02_clima_norte",
+  "tag": "CLIMA",
+  "big": "27°",
+  "title": "Hoy, norte: *mejora por la tarde*",
+  "sub": "Tras los <b>52 mm</b> que cayeron el martes en hora y media, se esperan lluvias en la madrugada y la mañana, con rachas de <b>hasta 50 km/h</b>.",
+  "source": "Ayuntamiento · SMN · 5to Poder",
+  "date": "25 nov 2026"
+ },
+ {
+  "file": "03_noticia_lili_campos",
+  "tag": "NOTICIA",
+  "title": "Exalcaldesa Lili Campos, *vinculada a proceso*",
+  "sub": "Un juez le dictó <b>prisión preventiva</b>; la Fiscalía tiene <b>4 meses</b> para investigar contratos de lavado de vehículos por un presunto daño de <b>62&nbsp;mdp</b>. Aún no hay sentencia.",
+  "source": "Noticaribe · SinEmbargo",
+  "date": "23 nov 2026"
+ },
+ {
+  "file": "04_seguridad_policias",
+  "tag": "SEGURIDAD",
+  "big": "12",
+  "title": "agentes *fuera de la calle*",
+  "sub": "Les retiraron armas y patrullas mientras Asuntos Internos investiga <b>denuncias por abusos</b>, según Seguridad Ciudadana. Para denunciar: <b>984&nbsp;367&nbsp;08&nbsp;31</b>.",
+  "source": "Ayuntamiento vía Noticaribe · Por Esto",
+  "date": "23 nov 2026"
+ },
+ {
+  "file": "05_tesirve_ferry_cozumel",
+  "tag": "TE SIRVE",
+  "big": "$250",
+  "title": "Ferry Playa–Cozumel *sube el jueves*",
+  "sub": "Es la tarifa local peninsular por adulto, viaje sencillo. Público general: <b>$420</b>. Adultos mayores: <b>$100</b>. Aplica desde el <b>26 de noviembre</b>, según Ultramar.",
+  "source": "Noticaribe · Riviera Maya News",
+  "date": "23 nov 2026"
+ },
+ {
+  "file": "06_medioambiente_quemas",
+  "tag": "MEDIO AMBIENTE",
+  "big": "12",
+  "title": "quemas clandestinas *en el sur de Playa*",
+  "sub": "Según el Ayuntamiento, se detectaron el fin de semana cerca de <b>San Judas Tadeo</b>, junto con un aserradero ilegal. Habrá reunión con vecinos el <b>2 de diciembre</b>.",
+  "source": "Noticaribe",
+  "date": "24 nov 2026"
+ },
+ {
+  "file": "07_hoteles_inegi_empleo",
+  "tag": "HOTELES",
+  "big": "−4.4%",
+  "title": "empleos en *hoteles y restaurantes*",
+  "sub": "Personal ocupado en Q.&nbsp;Roo en septiembre contra 2025; los ingresos cayeron <b>13.2%</b>, según cifras preliminares del INEGI. ¿Te recortaron? Profedet gratis: <b>800&nbsp;911&nbsp;7877</b>.",
+  "source": "INEGI vía Diario de Yucatán",
+  "date": "24 nov 2026"
+ },
+ {
+  "file": "08_sargazo_regreso",
+  "tag": "SARGAZO",
+  "title": "Regresa algo de *sargazo a la playa*",
+  "sub": "Prestadores de servicios piden <b>más limpieza</b> antes de las vacaciones de invierno. El Ayuntamiento anunció un <b>centro experimental</b> para tratar el sargazo en Playa.",
+  "source": "Por Esto · Reportur · Quinta Fuerza",
+  "date": "24 nov 2026"
+ },
+ {
+  "file": "09_tesirve_centros_salud",
+  "tag": "SALUD",
+  "big": "4",
+  "title": "centros de salud *del municipio*",
+  "sub": "En <b>Villas del Sol, Petén, Colosio y Puerto Aventuras</b> dan consulta, vacunas, psicología y nutrición. Del 13 al 19 de noviembre aplicaron <b>793 vacunas</b>, según el Ayuntamiento.",
+  "source": "5to Poder",
+  "date": "24 nov 2026"
+ },
+ {
+  "file": "10_trabajo_salario_minimo",
+  "tag": "TRABAJO",
+  "big": "15%",
+  "title": "piden sindicatos *de aumento salarial*",
+  "sub": "La Conasami abre sesión el <b>jueves 26</b>; las propuestas se entregan hasta el 30 de noviembre y el nuevo salario rige desde el <b>1 de enero</b>. Hoy es de <b>$315.04</b> al día.",
+  "source": "UnoTV · El Tiempo",
+  "date": "22 nov 2026"
+ }
+]
