@@ -1,0 +1,89 @@
+[
+ {
+  "file": "01_hoteles_aguinaldo_revision",
+  "tag": "HOTELES",
+  "big": "5,025",
+  "title": "negocios *revisados por aguinaldo*",
+  "sub": "La STyPS de Q.&nbsp;Roo revisará del <b>15 de diciembre al 30 de marzo</b> que se pague. Si no te llega antes del <b>20 de diciembre</b>, tienes <b>un año</b> para reclamar gratis.",
+  "source": "STyPS vía Heraldo de México QRoo · LFT",
+  "date": "28 nov 2026"
+ },
+ {
+  "file": "02_clima_sabado",
+  "tag": "CLIMA",
+  "big": "28°",
+  "title": "Hoy, fresco y *con viento del norte*",
+  "sub": "Máxima de <b>26 a 28&nbsp;°C</b> y oleaje de 1 a 2&nbsp;m en la costa. El domingo, <b>80% de probabilidad de lluvia</b>.",
+  "source": "Meteored · SMN vía Ruptura360 y Heraldo QRoo",
+  "date": "28 nov 2026"
+ },
+ {
+  "file": "03_tesirve_carrera_inclusiva",
+  "tag": "TE SIRVE",
+  "title": "Carrera inclusiva *este domingo a las 7*",
+  "sub": "<b>5 y 10 km</b> desde el Estadio Mario Villanueva Madrid, por la Quinta Avenida. Donativo de <b>$350</b> para la Asociación Microtia y el CEAI, que atienden a personas con discapacidad.",
+  "source": "Heraldo de México QRoo",
+  "date": "25 nov 2026"
+ },
+ {
+  "file": "04_playas_punta_esmeralda",
+  "tag": "PLAYAS",
+  "title": "Acceso a Punta Esmeralda: *meta, mediados de diciembre*",
+  "sub": "Está cerrado desde septiembre. Según Obras Públicas, la obra va en tiempo y tendrá <b>vestidores, barandales y guías para personas ciegas</b>.",
+  "source": "Noticaribe · Quequi · Sal! Revista",
+  "date": "27 nov 2026"
+ },
+ {
+  "file": "05_sargazo_barreras",
+  "tag": "SARGAZO",
+  "big": "32 km",
+  "title": "de barreras *contra el sargazo*",
+  "sub": "La Marina planea duplicar los <b>16 km</b> instalados en Q.&nbsp;Roo y tener <b>18 barcos</b> para 2027. El último boletín de la USF prevé que el sargazo <b>siga bajando</b>.",
+  "source": "Periodistas Quintana Roo · USF",
+  "date": "27 nov 2026"
+ },
+ {
+  "file": "06_colonias_repavimentacion",
+  "tag": "COLONIAS",
+  "big": "7",
+  "title": "colonias *con calles repavimentadas*",
+  "sub": "<b>Misión del Carmen, Ejidal, Colosio, La Guadalupana, El Petén, Misión Villamar 2 y Misión de las Flores.</b> Inversión de $20 millones, según el Ayuntamiento.",
+  "source": "Ayuntamiento vía Noticaribe",
+  "date": "27 nov 2026"
+ },
+ {
+  "file": "07_trabajo_46_horas",
+  "tag": "TRABAJO",
+  "big": "46",
+  "title": "horas por semana *desde el 1 de enero*",
+  "sub": "La jornada baja de 48 a 46 horas <b>sin recorte de sueldo</b>. Pero el 65% de los trabajadores cree que su empresa <b>no está lista</b>, según una encuesta de OCC.",
+  "source": "Forbes México · Quinto Poder",
+  "date": "26 nov 2026"
+ },
+ {
+  "file": "08_medioambiente_playas",
+  "tag": "MEDIO AMBIENTE",
+  "big": "33.6 km",
+  "title": "de playas *por restaurar*",
+  "sub": "En Playa del Carmen, Cancún, Cozumel y Puerto Morelos, <b>según el Gobierno de Q.&nbsp;Roo</b>, que dice tener ya la autorización.",
+  "source": "Heraldo de México QRoo",
+  "date": "27 nov 2026"
+ },
+ {
+  "file": "09_comunidad_mujeres",
+  "tag": "COMUNIDAD",
+  "big": "5",
+  "title": "mujeres de Playa *reconocidas en 2026*",
+  "sub": "Recibieron la distinción <b>Elvia Carrillo Puerto 2026</b> por su labor social, en derechos humanos y cultura indígena, arte, emprendimiento y deporte.",
+  "source": "Ayuntamiento · Noticaribe",
+  "date": "25 nov 2026"
+ },
+ {
+  "file": "10_hoteles_cambio_dueno",
+  "tag": "HOTELES",
+  "title": "¿Cambió el dueño del hotel? *No firmes tu renuncia*",
+  "sub": "Por ley, el patrón anterior y el nuevo <b>responden juntos 6 meses</b> por lo que te deben. Asesoría gratis: CCL Playa <b>984&nbsp;688&nbsp;5709</b>.",
+  "source": "LFT art. 41 · Por Esto · Noticaribe",
+  "date": "28 nov 2026"
+ }
+]
